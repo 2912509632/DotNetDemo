@@ -1,0 +1,5 @@
+E:\Subject\C-Sharp\8.泛型\_8_泛型\_2_泛型类型参数\bin\Debug\_2_泛型类型参数.exe
+E:\Subject\C-Sharp\8.泛型\_8_泛型\_2_泛型类型参数\bin\Debug\_2_泛型类型参数.pdb
+E:\Subject\C-Sharp\8.泛型\_8_泛型\_2_泛型类型参数\obj\Debug\_2_泛型类型参数.csprojResolveAssemblyReference.cache
+E:\Subject\C-Sharp\8.泛型\_8_泛型\_2_泛型类型参数\obj\Debug\_2_泛型类型参数.exe
+E:\Subject\C-Sharp\8.泛型\_8_泛型\_2_泛型类型参数\obj\Debug\_2_泛型类型参数.pdb

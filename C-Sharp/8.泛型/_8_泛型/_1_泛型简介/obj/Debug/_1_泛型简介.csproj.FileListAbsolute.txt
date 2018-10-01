@@ -1,0 +1,4 @@
+E:\Subject\C-Sharp\8.泛型\_8_泛型\_1_泛型简介\bin\Debug\_1_泛型简介.exe
+E:\Subject\C-Sharp\8.泛型\_8_泛型\_1_泛型简介\bin\Debug\_1_泛型简介.pdb
+E:\Subject\C-Sharp\8.泛型\_8_泛型\_1_泛型简介\obj\Debug\_1_泛型简介.exe
+E:\Subject\C-Sharp\8.泛型\_8_泛型\_1_泛型简介\obj\Debug\_1_泛型简介.pdb

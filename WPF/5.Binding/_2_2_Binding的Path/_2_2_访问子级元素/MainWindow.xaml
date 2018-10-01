@@ -1,0 +1,15 @@
+﻿<Window x:Class="_2_2_访问子级元素.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:_2_2_访问子级元素"
+        mc:Ignorable="d"
+        Title="MainWindow" Height="200" Width="300">
+    <StackPanel Margin="10">
+        <Label Content="Test集合里Child属性的默认值："/>
+        <TextBox Name="txt_val"></TextBox>
+        <Label Content="Test集合里Child属性的第二个值："/>
+        <TextBox Name="txt_two"></TextBox>
+    </StackPanel>
+</Window>

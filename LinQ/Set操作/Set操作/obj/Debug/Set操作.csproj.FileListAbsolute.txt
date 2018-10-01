@@ -1,0 +1,5 @@
+E:\Subject\LINQ\Set操作\Set操作\bin\Debug\Set操作.exe
+E:\Subject\LINQ\Set操作\Set操作\bin\Debug\Set操作.pdb
+E:\Subject\LINQ\Set操作\Set操作\obj\Debug\Set操作.csprojResolveAssemblyReference.cache
+E:\Subject\LINQ\Set操作\Set操作\obj\Debug\Set操作.exe
+E:\Subject\LINQ\Set操作\Set操作\obj\Debug\Set操作.pdb

@@ -1,0 +1,29 @@
+﻿<Window x:Class="Effect使用滤镜库.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:selib="clr-namespace:ShaderEffectLibrary;assembly=ShaderEffectLibrary"
+        xmlns:local="clr-namespace:Effect使用滤镜库"
+        mc:Ignorable="d"
+        Title="MainWindow" Height="240" Width="525">
+    <Grid>
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition />
+            <ColumnDefinition />
+        </Grid.ColumnDefinitions>
+        <Image Source="demo.png" Margin="15" Grid.Column="0">
+            <Image.Effect>
+                <!--自带效果-->
+                <DropShadowEffect BlurRadius="10" Opacity="0.75" />
+            </Image.Effect>
+        </Image>
+
+        <Image Source="demo.png" Margin="15" Grid.Column="1">
+            <Image.Effect>
+                <!--效果库效果-->
+                <selib:ZoomBlurEffect Center="0.5,0.5" BlurAmount="0.2" />
+            </Image.Effect>
+        </Image>
+    </Grid>
+</Window>

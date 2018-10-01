@@ -1,0 +1,28 @@
+﻿<Window x:Class="_2_显式使用DataTemplate.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:_2_显式使用DataTemplate"
+        mc:Ignorable="d"
+        Title="MainWindow" Height="320" Width="300">
+    <StackPanel Margin="10">
+        <Label Content="学生信息" />
+        <StackPanel Orientation="Horizontal">
+            <Label Content="编号" Width="70" />
+            <Label Content="姓名" Width="70" />
+            <Label Content="性别" Width="70" />
+        </StackPanel>
+        <ListBox Name="lst_demo" >
+            <ListBox.ItemTemplate>
+                <DataTemplate>
+                    <StackPanel Orientation="Horizontal">
+                        <Label Content="{Binding ID}" Width="70" />
+                        <Label Content="{Binding Name}" Width="70" />
+                        <Label Content="{Binding Sex}" Width="70" />
+                    </StackPanel>
+                </DataTemplate>
+            </ListBox.ItemTemplate>
+        </ListBox>
+    </StackPanel>
+</Window>

@@ -1,0 +1,11 @@
+E:\Subject\LinQ\LinQToEntity\LinQToEntity\bin\Debug\LinQToEntity.exe.config
+E:\Subject\LinQ\LinQToEntity\LinQToEntity\bin\Debug\LinQToEntity.exe
+E:\Subject\LinQ\LinQToEntity\LinQToEntity\bin\Debug\LinQToEntity.pdb
+E:\Subject\LinQ\LinQToEntity\LinQToEntity\bin\Debug\EntityFramework.dll
+E:\Subject\LinQ\LinQToEntity\LinQToEntity\bin\Debug\EntityFramework.SqlServer.dll
+E:\Subject\LinQ\LinQToEntity\LinQToEntity\bin\Debug\EntityFramework.xml
+E:\Subject\LinQ\LinQToEntity\LinQToEntity\bin\Debug\EntityFramework.SqlServer.xml
+E:\Subject\LinQ\LinQToEntity\LinQToEntity\bin\Debug\zh-Hans\EntityFramework.resources.dll
+E:\Subject\LinQ\LinQToEntity\LinQToEntity\obj\Debug\LinQToEntity.csprojResolveAssemblyReference.cache
+E:\Subject\LinQ\LinQToEntity\LinQToEntity\obj\Debug\LinQToEntity.exe
+E:\Subject\LinQ\LinQToEntity\LinQToEntity\obj\Debug\LinQToEntity.pdb

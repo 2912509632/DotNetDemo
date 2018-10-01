@@ -1,0 +1,40 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.25420.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "直线", "直线\直线.csproj", "{90094F59-C467-46B8-BDDC-82C09D3F086D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "矩形", "矩形\矩形.csproj", "{E07498DF-AFE5-4590-8F3F-40C10330EAFF}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "椭圆", "椭圆\椭圆.csproj", "{51A7AE0F-EF03-4F7B-B9B1-424D950C2881}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "路径", "路径\路径.csproj", "{6ADC5CA6-3533-41BE-90AD-F3330042D25D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{90094F59-C467-46B8-BDDC-82C09D3F086D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{90094F59-C467-46B8-BDDC-82C09D3F086D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{90094F59-C467-46B8-BDDC-82C09D3F086D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{90094F59-C467-46B8-BDDC-82C09D3F086D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E07498DF-AFE5-4590-8F3F-40C10330EAFF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E07498DF-AFE5-4590-8F3F-40C10330EAFF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E07498DF-AFE5-4590-8F3F-40C10330EAFF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E07498DF-AFE5-4590-8F3F-40C10330EAFF}.Release|Any CPU.Build.0 = Release|Any CPU
+		{51A7AE0F-EF03-4F7B-B9B1-424D950C2881}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{51A7AE0F-EF03-4F7B-B9B1-424D950C2881}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{51A7AE0F-EF03-4F7B-B9B1-424D950C2881}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{51A7AE0F-EF03-4F7B-B9B1-424D950C2881}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6ADC5CA6-3533-41BE-90AD-F3330042D25D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6ADC5CA6-3533-41BE-90AD-F3330042D25D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6ADC5CA6-3533-41BE-90AD-F3330042D25D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6ADC5CA6-3533-41BE-90AD-F3330042D25D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

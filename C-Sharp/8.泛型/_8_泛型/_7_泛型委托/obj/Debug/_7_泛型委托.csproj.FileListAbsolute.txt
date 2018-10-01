@@ -1,0 +1,5 @@
+E:\Subject\C-Sharp\8.泛型\_8_泛型\_7_泛型委托\bin\Debug\_7_泛型委托.exe
+E:\Subject\C-Sharp\8.泛型\_8_泛型\_7_泛型委托\bin\Debug\_7_泛型委托.pdb
+E:\Subject\C-Sharp\8.泛型\_8_泛型\_7_泛型委托\obj\Debug\_7_泛型委托.csprojResolveAssemblyReference.cache
+E:\Subject\C-Sharp\8.泛型\_8_泛型\_7_泛型委托\obj\Debug\_7_泛型委托.exe
+E:\Subject\C-Sharp\8.泛型\_8_泛型\_7_泛型委托\obj\Debug\_7_泛型委托.pdb

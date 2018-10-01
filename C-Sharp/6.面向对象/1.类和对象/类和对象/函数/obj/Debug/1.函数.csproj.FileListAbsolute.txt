@@ -1,0 +1,5 @@
+E:\Subject\C-Sharp\6.面向对象\1.类和对象\类和对象\函数\bin\Debug\函数.exe
+E:\Subject\C-Sharp\6.面向对象\1.类和对象\类和对象\函数\bin\Debug\函数.pdb
+E:\Subject\C-Sharp\6.面向对象\1.类和对象\类和对象\函数\obj\Debug\1.函数.csprojResolveAssemblyReference.cache
+E:\Subject\C-Sharp\6.面向对象\1.类和对象\类和对象\函数\obj\Debug\函数.exe
+E:\Subject\C-Sharp\6.面向对象\1.类和对象\类和对象\函数\obj\Debug\函数.pdb

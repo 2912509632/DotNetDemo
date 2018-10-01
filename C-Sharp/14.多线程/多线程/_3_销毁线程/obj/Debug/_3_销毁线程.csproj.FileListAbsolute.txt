@@ -1,0 +1,5 @@
+E:\Subject\C-Sharp\14.多线程\多线程\_3_销毁线程\bin\Debug\_3_销毁线程.exe
+E:\Subject\C-Sharp\14.多线程\多线程\_3_销毁线程\bin\Debug\_3_销毁线程.pdb
+E:\Subject\C-Sharp\14.多线程\多线程\_3_销毁线程\obj\Debug\_3_销毁线程.csprojResolveAssemblyReference.cache
+E:\Subject\C-Sharp\14.多线程\多线程\_3_销毁线程\obj\Debug\_3_销毁线程.exe
+E:\Subject\C-Sharp\14.多线程\多线程\_3_销毁线程\obj\Debug\_3_销毁线程.pdb

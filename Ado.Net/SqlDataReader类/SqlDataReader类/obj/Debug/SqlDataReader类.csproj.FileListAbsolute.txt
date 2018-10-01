@@ -1,0 +1,5 @@
+E:\Subject\Ado.Net\SqlDataReader类\SqlDataReader类\bin\Debug\SqlDataReader类.exe
+E:\Subject\Ado.Net\SqlDataReader类\SqlDataReader类\bin\Debug\SqlDataReader类.pdb
+E:\Subject\Ado.Net\SqlDataReader类\SqlDataReader类\obj\Debug\SqlDataReader类.csprojResolveAssemblyReference.cache
+E:\Subject\Ado.Net\SqlDataReader类\SqlDataReader类\obj\Debug\SqlDataReader类.exe
+E:\Subject\Ado.Net\SqlDataReader类\SqlDataReader类\obj\Debug\SqlDataReader类.pdb

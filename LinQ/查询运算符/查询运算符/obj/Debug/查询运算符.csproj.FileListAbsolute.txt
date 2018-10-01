@@ -1,0 +1,5 @@
+E:\Subject\LINQ\查询运算符\查询运算符\bin\Debug\查询运算符.exe
+E:\Subject\LINQ\查询运算符\查询运算符\bin\Debug\查询运算符.pdb
+E:\Subject\LINQ\查询运算符\查询运算符\obj\Debug\查询运算符.csprojResolveAssemblyReference.cache
+E:\Subject\LINQ\查询运算符\查询运算符\obj\Debug\查询运算符.exe
+E:\Subject\LINQ\查询运算符\查询运算符\obj\Debug\查询运算符.pdb

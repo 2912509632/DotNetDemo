@@ -1,0 +1,8 @@
+E:\Subject\C-Sharp\14.多线程\多线程\_4_跨线程访问\bin\Debug\_4_跨线程访问.exe
+E:\Subject\C-Sharp\14.多线程\多线程\_4_跨线程访问\bin\Debug\_4_跨线程访问.pdb
+E:\Subject\C-Sharp\14.多线程\多线程\_4_跨线程访问\obj\Debug\_4_跨线程访问.csprojResolveAssemblyReference.cache
+E:\Subject\C-Sharp\14.多线程\多线程\_4_跨线程访问\obj\Debug\_4_跨线程访问.Properties.Resources.resources
+E:\Subject\C-Sharp\14.多线程\多线程\_4_跨线程访问\obj\Debug\_4_跨线程访问.csproj.GenerateResource.Cache
+E:\Subject\C-Sharp\14.多线程\多线程\_4_跨线程访问\obj\Debug\_4_跨线程访问.exe
+E:\Subject\C-Sharp\14.多线程\多线程\_4_跨线程访问\obj\Debug\_4_跨线程访问.pdb
+E:\Subject\C-Sharp\14.多线程\多线程\_4_跨线程访问\obj\Debug\_4_跨线程访问.Form1.resources

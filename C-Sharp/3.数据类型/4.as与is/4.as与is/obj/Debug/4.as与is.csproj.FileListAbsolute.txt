@@ -1,0 +1,5 @@
+E:\Subject\C-Sharp\3.数据类型\4.as与is\4.as与is\bin\Debug\4.as与is.exe
+E:\Subject\C-Sharp\3.数据类型\4.as与is\4.as与is\bin\Debug\4.as与is.pdb
+E:\Subject\C-Sharp\3.数据类型\4.as与is\4.as与is\obj\Debug\4.as与is.csprojResolveAssemblyReference.cache
+E:\Subject\C-Sharp\3.数据类型\4.as与is\4.as与is\obj\Debug\4.as与is.exe
+E:\Subject\C-Sharp\3.数据类型\4.as与is\4.as与is\obj\Debug\4.as与is.pdb

@@ -1,0 +1,4 @@
+E:\Subject\C-Sharp\11.文件处理\_4_使用读写器处理文件\_2_StreamWriter类\bin\Debug\_2_StreamWriter类.exe
+E:\Subject\C-Sharp\11.文件处理\_4_使用读写器处理文件\_2_StreamWriter类\bin\Debug\_2_StreamWriter类.pdb
+E:\Subject\C-Sharp\11.文件处理\_4_使用读写器处理文件\_2_StreamWriter类\obj\Debug\_2_StreamWriter类.exe
+E:\Subject\C-Sharp\11.文件处理\_4_使用读写器处理文件\_2_StreamWriter类\obj\Debug\_2_StreamWriter类.pdb

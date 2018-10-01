@@ -1,0 +1,5 @@
+E:\Subject\C-Sharp\7.集合\集合\_4_stack\obj\Debug\_4_stack.csprojResolveAssemblyReference.cache
+E:\Subject\C-Sharp\7.集合\集合\_4_stack\bin\Debug\_4_stack.exe
+E:\Subject\C-Sharp\7.集合\集合\_4_stack\bin\Debug\_4_stack.pdb
+E:\Subject\C-Sharp\7.集合\集合\_4_stack\obj\Debug\_4_stack.exe
+E:\Subject\C-Sharp\7.集合\集合\_4_stack\obj\Debug\_4_stack.pdb

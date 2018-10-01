@@ -1,0 +1,14 @@
+E:\Subject\WPF\5.Binding\_2_4_没有Path的Binding\_2_4_没有Path的Binding\bin\Debug\_2_4_没有Path的Binding.exe.config
+E:\Subject\WPF\5.Binding\_2_4_没有Path的Binding\_2_4_没有Path的Binding\obj\Debug\_2_4_没有Path的Binding.csprojResolveAssemblyReference.cache
+E:\Subject\WPF\5.Binding\_2_4_没有Path的Binding\_2_4_没有Path的Binding\obj\Debug\MainWindow.g.cs
+E:\Subject\WPF\5.Binding\_2_4_没有Path的Binding\_2_4_没有Path的Binding\obj\Debug\App.g.cs
+E:\Subject\WPF\5.Binding\_2_4_没有Path的Binding\_2_4_没有Path的Binding\obj\Debug\_2_4_没有Path的Binding_MarkupCompile.cache
+E:\Subject\WPF\5.Binding\_2_4_没有Path的Binding\_2_4_没有Path的Binding\obj\Debug\_2_4_没有Path的Binding_MarkupCompile.lref
+E:\Subject\WPF\5.Binding\_2_4_没有Path的Binding\_2_4_没有Path的Binding\obj\Debug\MainWindow.baml
+E:\Subject\WPF\5.Binding\_2_4_没有Path的Binding\_2_4_没有Path的Binding\obj\Debug\_2_4_没有Path的Binding.g.resources
+E:\Subject\WPF\5.Binding\_2_4_没有Path的Binding\_2_4_没有Path的Binding\obj\Debug\_2_4_没有Path的Binding.Properties.Resources.resources
+E:\Subject\WPF\5.Binding\_2_4_没有Path的Binding\_2_4_没有Path的Binding\obj\Debug\_2_4_没有Path的Binding.csproj.GenerateResource.Cache
+E:\Subject\WPF\5.Binding\_2_4_没有Path的Binding\_2_4_没有Path的Binding\obj\Debug\_2_4_没有Path的Binding.pdb
+E:\Subject\WPF\5.Binding\_2_4_没有Path的Binding\_2_4_没有Path的Binding\bin\Debug\_2_4_没有Path的Binding.exe
+E:\Subject\WPF\5.Binding\_2_4_没有Path的Binding\_2_4_没有Path的Binding\bin\Debug\_2_4_没有Path的Binding.pdb
+E:\Subject\WPF\5.Binding\_2_4_没有Path的Binding\_2_4_没有Path的Binding\obj\Debug\_2_4_没有Path的Binding.exe

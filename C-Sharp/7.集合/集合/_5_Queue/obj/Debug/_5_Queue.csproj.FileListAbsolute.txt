@@ -1,0 +1,5 @@
+E:\Subject\C-Sharp\7.集合\集合\_5_Queue\bin\Debug\_5_Queue.exe
+E:\Subject\C-Sharp\7.集合\集合\_5_Queue\bin\Debug\_5_Queue.pdb
+E:\Subject\C-Sharp\7.集合\集合\_5_Queue\obj\Debug\_5_Queue.csprojResolveAssemblyReference.cache
+E:\Subject\C-Sharp\7.集合\集合\_5_Queue\obj\Debug\_5_Queue.exe
+E:\Subject\C-Sharp\7.集合\集合\_5_Queue\obj\Debug\_5_Queue.pdb

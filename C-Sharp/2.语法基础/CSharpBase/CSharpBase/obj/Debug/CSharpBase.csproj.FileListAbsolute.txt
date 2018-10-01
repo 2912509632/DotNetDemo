@@ -1,0 +1,5 @@
+E:\Subject\C-Sharp\2.语法基础\CSharpBase\CSharpBase\bin\Debug\CSharpBase.exe
+E:\Subject\C-Sharp\2.语法基础\CSharpBase\CSharpBase\bin\Debug\CSharpBase.pdb
+E:\Subject\C-Sharp\2.语法基础\CSharpBase\CSharpBase\obj\Debug\CSharpBase.csprojResolveAssemblyReference.cache
+E:\Subject\C-Sharp\2.语法基础\CSharpBase\CSharpBase\obj\Debug\CSharpBase.exe
+E:\Subject\C-Sharp\2.语法基础\CSharpBase\CSharpBase\obj\Debug\CSharpBase.pdb

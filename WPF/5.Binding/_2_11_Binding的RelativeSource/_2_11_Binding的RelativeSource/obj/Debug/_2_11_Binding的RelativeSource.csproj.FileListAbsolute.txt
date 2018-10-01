@@ -1,0 +1,14 @@
+E:\Subject\WPF\5.Binding\_2_11_Binding的RelativeSource\_2_11_Binding的RelativeSource\bin\Debug\_2_11_Binding的RelativeSource.exe.config
+E:\Subject\WPF\5.Binding\_2_11_Binding的RelativeSource\_2_11_Binding的RelativeSource\bin\Debug\_2_11_Binding的RelativeSource.exe
+E:\Subject\WPF\5.Binding\_2_11_Binding的RelativeSource\_2_11_Binding的RelativeSource\bin\Debug\_2_11_Binding的RelativeSource.pdb
+E:\Subject\WPF\5.Binding\_2_11_Binding的RelativeSource\_2_11_Binding的RelativeSource\obj\Debug\_2_11_Binding的RelativeSource.csprojResolveAssemblyReference.cache
+E:\Subject\WPF\5.Binding\_2_11_Binding的RelativeSource\_2_11_Binding的RelativeSource\obj\Debug\MainWindow.g.cs
+E:\Subject\WPF\5.Binding\_2_11_Binding的RelativeSource\_2_11_Binding的RelativeSource\obj\Debug\App.g.cs
+E:\Subject\WPF\5.Binding\_2_11_Binding的RelativeSource\_2_11_Binding的RelativeSource\obj\Debug\_2_11_Binding的RelativeSource_MarkupCompile.cache
+E:\Subject\WPF\5.Binding\_2_11_Binding的RelativeSource\_2_11_Binding的RelativeSource\obj\Debug\_2_11_Binding的RelativeSource_MarkupCompile.lref
+E:\Subject\WPF\5.Binding\_2_11_Binding的RelativeSource\_2_11_Binding的RelativeSource\obj\Debug\MainWindow.baml
+E:\Subject\WPF\5.Binding\_2_11_Binding的RelativeSource\_2_11_Binding的RelativeSource\obj\Debug\_2_11_Binding的RelativeSource.g.resources
+E:\Subject\WPF\5.Binding\_2_11_Binding的RelativeSource\_2_11_Binding的RelativeSource\obj\Debug\_2_11_Binding的RelativeSource.Properties.Resources.resources
+E:\Subject\WPF\5.Binding\_2_11_Binding的RelativeSource\_2_11_Binding的RelativeSource\obj\Debug\_2_11_Binding的RelativeSource.csproj.GenerateResource.Cache
+E:\Subject\WPF\5.Binding\_2_11_Binding的RelativeSource\_2_11_Binding的RelativeSource\obj\Debug\_2_11_Binding的RelativeSource.exe
+E:\Subject\WPF\5.Binding\_2_11_Binding的RelativeSource\_2_11_Binding的RelativeSource\obj\Debug\_2_11_Binding的RelativeSource.pdb

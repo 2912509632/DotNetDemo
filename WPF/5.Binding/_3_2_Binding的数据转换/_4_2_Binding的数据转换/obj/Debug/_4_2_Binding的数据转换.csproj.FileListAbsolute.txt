@@ -1,0 +1,15 @@
+E:\Subject\WPF\5.Binding\_4_2_Binding的数据转换\_4_2_Binding的数据转换\bin\Debug\_4_2_Binding的数据转换.exe.config
+E:\Subject\WPF\5.Binding\_4_2_Binding的数据转换\_4_2_Binding的数据转换\bin\Debug\_4_2_Binding的数据转换.exe
+E:\Subject\WPF\5.Binding\_4_2_Binding的数据转换\_4_2_Binding的数据转换\bin\Debug\_4_2_Binding的数据转换.pdb
+E:\Subject\WPF\5.Binding\_4_2_Binding的数据转换\_4_2_Binding的数据转换\obj\Debug\_4_2_Binding的数据转换.csprojResolveAssemblyReference.cache
+E:\Subject\WPF\5.Binding\_4_2_Binding的数据转换\_4_2_Binding的数据转换\obj\Debug\MainWindow.g.cs
+E:\Subject\WPF\5.Binding\_4_2_Binding的数据转换\_4_2_Binding的数据转换\obj\Debug\App.g.cs
+E:\Subject\WPF\5.Binding\_4_2_Binding的数据转换\_4_2_Binding的数据转换\obj\Debug\_4_2_Binding的数据转换_MarkupCompile.cache
+E:\Subject\WPF\5.Binding\_4_2_Binding的数据转换\_4_2_Binding的数据转换\obj\Debug\_4_2_Binding的数据转换_MarkupCompile.lref
+E:\Subject\WPF\5.Binding\_4_2_Binding的数据转换\_4_2_Binding的数据转换\obj\Debug\MainWindow.baml
+E:\Subject\WPF\5.Binding\_4_2_Binding的数据转换\_4_2_Binding的数据转换\obj\Debug\_4_2_Binding的数据转换.g.resources
+E:\Subject\WPF\5.Binding\_4_2_Binding的数据转换\_4_2_Binding的数据转换\obj\Debug\_4_2_Binding的数据转换.Properties.Resources.resources
+E:\Subject\WPF\5.Binding\_4_2_Binding的数据转换\_4_2_Binding的数据转换\obj\Debug\_4_2_Binding的数据转换.csproj.GenerateResource.Cache
+E:\Subject\WPF\5.Binding\_4_2_Binding的数据转换\_4_2_Binding的数据转换\obj\Debug\_4_2_Binding的数据转换.exe
+E:\Subject\WPF\5.Binding\_4_2_Binding的数据转换\_4_2_Binding的数据转换\obj\Debug\_4_2_Binding的数据转换.pdb
+E:\Subject\WPF\5.Binding\_4_2_Binding的数据转换\_4_2_Binding的数据转换\obj\Debug\GeneratedInternalTypeHelper.g.cs

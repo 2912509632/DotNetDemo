@@ -1,0 +1,4 @@
+E:\Subject\C-Sharp\8.泛型\_8_泛型\_10_LinkedList\bin\Debug\_10_LinkedList.exe
+E:\Subject\C-Sharp\8.泛型\_8_泛型\_10_LinkedList\bin\Debug\_10_LinkedList.pdb
+E:\Subject\C-Sharp\8.泛型\_8_泛型\_10_LinkedList\obj\Debug\_10_LinkedList.exe
+E:\Subject\C-Sharp\8.泛型\_8_泛型\_10_LinkedList\obj\Debug\_10_LinkedList.pdb

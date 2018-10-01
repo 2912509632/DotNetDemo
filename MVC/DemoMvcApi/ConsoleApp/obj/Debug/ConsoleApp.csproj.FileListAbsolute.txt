@@ -1,0 +1,7 @@
+D:\Subject\MVC\DemoMvcApi\ConsoleApp\bin\Debug\ConsoleApp.exe.config
+D:\Subject\MVC\DemoMvcApi\ConsoleApp\bin\Debug\ConsoleApp.exe
+D:\Subject\MVC\DemoMvcApi\ConsoleApp\bin\Debug\ConsoleApp.pdb
+D:\Subject\MVC\DemoMvcApi\ConsoleApp\obj\Debug\ConsoleApp.csprojAssemblyReference.cache
+D:\Subject\MVC\DemoMvcApi\ConsoleApp\obj\Debug\ConsoleApp.csproj.CoreCompileInputs.cache
+D:\Subject\MVC\DemoMvcApi\ConsoleApp\obj\Debug\ConsoleApp.exe
+D:\Subject\MVC\DemoMvcApi\ConsoleApp\obj\Debug\ConsoleApp.pdb

@@ -1,0 +1,5 @@
+E:\Subject\C-Sharp\5.相关内容\3.数组的使用\3.数组的使用\bin\Debug\3.数组的使用.exe
+E:\Subject\C-Sharp\5.相关内容\3.数组的使用\3.数组的使用\bin\Debug\3.数组的使用.pdb
+E:\Subject\C-Sharp\5.相关内容\3.数组的使用\3.数组的使用\obj\Debug\1.一维数组的使用.csprojResolveAssemblyReference.cache
+E:\Subject\C-Sharp\5.相关内容\3.数组的使用\3.数组的使用\obj\Debug\3.数组的使用.exe
+E:\Subject\C-Sharp\5.相关内容\3.数组的使用\3.数组的使用\obj\Debug\3.数组的使用.pdb

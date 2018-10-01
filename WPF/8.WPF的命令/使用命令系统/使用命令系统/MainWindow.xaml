@@ -1,0 +1,13 @@
+﻿<Window x:Class="使用命令系统.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:使用命令系统"
+        mc:Ignorable="d"
+        Title="使用命令系统" Height="250" Width="300">
+    <StackPanel x:Name="sp_root">
+        <TextBox Margin="20" Height="50" x:Name="txt_demo" />
+        <Button Margin="20" Content="立即清空" Height="50" x:Name="btn_demo" />
+    </StackPanel>
+</Window>

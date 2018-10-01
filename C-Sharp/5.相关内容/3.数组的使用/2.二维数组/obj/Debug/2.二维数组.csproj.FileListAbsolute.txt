@@ -1,0 +1,4 @@
+E:\Subject\C-Sharp\5.相关内容\3.数组的使用\2.二维数组\bin\Debug\2.二维数组.exe
+E:\Subject\C-Sharp\5.相关内容\3.数组的使用\2.二维数组\bin\Debug\2.二维数组.pdb
+E:\Subject\C-Sharp\5.相关内容\3.数组的使用\2.二维数组\obj\Debug\2.二维数组.exe
+E:\Subject\C-Sharp\5.相关内容\3.数组的使用\2.二维数组\obj\Debug\2.二维数组.pdb

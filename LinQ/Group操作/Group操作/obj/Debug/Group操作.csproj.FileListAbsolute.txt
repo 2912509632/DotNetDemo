@@ -1,0 +1,5 @@
+E:\Subject\LINQ\Group操作\Group操作\bin\Debug\Group操作.exe
+E:\Subject\LINQ\Group操作\Group操作\bin\Debug\Group操作.pdb
+E:\Subject\LINQ\Group操作\Group操作\obj\Debug\Group操作.csprojResolveAssemblyReference.cache
+E:\Subject\LINQ\Group操作\Group操作\obj\Debug\Group操作.exe
+E:\Subject\LINQ\Group操作\Group操作\obj\Debug\Group操作.pdb

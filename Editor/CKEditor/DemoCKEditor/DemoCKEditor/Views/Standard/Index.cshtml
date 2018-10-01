@@ -1,0 +1,31 @@
+﻿@{
+    Layout = null;
+}
+
+<!DOCTYPE html>
+
+<html>
+<head>
+    <meta name="viewport" content="width=device-width" />
+     <meta charset="utf-8">
+    <title>Index</title>
+</head>
+<body>
+    <div>
+        <textarea id="editor"  rows="10" cols="80"></textarea>
+    </div>
+    <script type="text/javascript" src="/Scripts/ckeditor/ckeditor.js"></script>
+    <script type="text/javascript" src="/Scripts/ckeditor/config.js"></script>
+    <script type="text/javascript" src="/Scripts/jquery.min.js"></script>
+    <script type="text/javascript">
+        var editor;
+        $(function () {
+            //定义全局变量 editor
+            $(function () {
+                //当全部DOM元素加载完毕后执行下面语句，不加此句javascript将无法找到TextBox1
+                editor=CKEDITOR.replace('editor');
+            });
+        });
+    </script>
+</body>
+</html>

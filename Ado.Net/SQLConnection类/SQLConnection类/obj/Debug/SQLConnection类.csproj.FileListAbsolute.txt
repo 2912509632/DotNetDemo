@@ -1,0 +1,6 @@
+E:\Subject\Ado.Net\SQLConnection类\SQLConnection类\bin\Debug\SQLConnection类.exe.config
+E:\Subject\Ado.Net\SQLConnection类\SQLConnection类\bin\Debug\SQLConnection类.exe
+E:\Subject\Ado.Net\SQLConnection类\SQLConnection类\bin\Debug\SQLConnection类.pdb
+E:\Subject\Ado.Net\SQLConnection类\SQLConnection类\obj\Debug\SQLConnection类.csprojResolveAssemblyReference.cache
+E:\Subject\Ado.Net\SQLConnection类\SQLConnection类\obj\Debug\SQLConnection类.exe
+E:\Subject\Ado.Net\SQLConnection类\SQLConnection类\obj\Debug\SQLConnection类.pdb

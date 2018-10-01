@@ -1,0 +1,5 @@
+E:\Subject\C-Sharp\4.流程控制\3._while\_foreach\bin\Debug\_foreach.exe
+E:\Subject\C-Sharp\4.流程控制\3._while\_foreach\bin\Debug\_foreach.pdb
+E:\Subject\C-Sharp\4.流程控制\3._while\_foreach\obj\Debug\_foreach.csprojResolveAssemblyReference.cache
+E:\Subject\C-Sharp\4.流程控制\3._while\_foreach\obj\Debug\_foreach.exe
+E:\Subject\C-Sharp\4.流程控制\3._while\_foreach\obj\Debug\_foreach.pdb

@@ -1,0 +1,5 @@
+E:\Subject\C-Sharp\4.流程控制\3._while\3._while\bin\Debug\3._while.exe
+E:\Subject\C-Sharp\4.流程控制\3._while\3._while\bin\Debug\3._while.pdb
+E:\Subject\C-Sharp\4.流程控制\3._while\3._while\obj\Debug\3._while.csprojResolveAssemblyReference.cache
+E:\Subject\C-Sharp\4.流程控制\3._while\3._while\obj\Debug\3._while.exe
+E:\Subject\C-Sharp\4.流程控制\3._while\3._while\obj\Debug\3._while.pdb

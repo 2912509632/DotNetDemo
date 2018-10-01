@@ -1,0 +1,14 @@
+E:\Subject\WPF\10.WPF的模板\ItemsPanel\ItemsPanel\bin\Debug\ItemsPanel.exe.config
+E:\Subject\WPF\10.WPF的模板\ItemsPanel\ItemsPanel\bin\Debug\ItemsPanel.exe
+E:\Subject\WPF\10.WPF的模板\ItemsPanel\ItemsPanel\bin\Debug\ItemsPanel.pdb
+E:\Subject\WPF\10.WPF的模板\ItemsPanel\ItemsPanel\obj\Debug\ItemsPanel.csprojResolveAssemblyReference.cache
+E:\Subject\WPF\10.WPF的模板\ItemsPanel\ItemsPanel\obj\Debug\MainWindow.g.cs
+E:\Subject\WPF\10.WPF的模板\ItemsPanel\ItemsPanel\obj\Debug\App.g.cs
+E:\Subject\WPF\10.WPF的模板\ItemsPanel\ItemsPanel\obj\Debug\ItemsPanel_MarkupCompile.cache
+E:\Subject\WPF\10.WPF的模板\ItemsPanel\ItemsPanel\obj\Debug\ItemsPanel_MarkupCompile.lref
+E:\Subject\WPF\10.WPF的模板\ItemsPanel\ItemsPanel\obj\Debug\MainWindow.baml
+E:\Subject\WPF\10.WPF的模板\ItemsPanel\ItemsPanel\obj\Debug\ItemsPanel.g.resources
+E:\Subject\WPF\10.WPF的模板\ItemsPanel\ItemsPanel\obj\Debug\ItemsPanel.Properties.Resources.resources
+E:\Subject\WPF\10.WPF的模板\ItemsPanel\ItemsPanel\obj\Debug\ItemsPanel.csproj.GenerateResource.Cache
+E:\Subject\WPF\10.WPF的模板\ItemsPanel\ItemsPanel\obj\Debug\ItemsPanel.exe
+E:\Subject\WPF\10.WPF的模板\ItemsPanel\ItemsPanel\obj\Debug\ItemsPanel.pdb

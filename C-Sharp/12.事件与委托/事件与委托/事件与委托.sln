@@ -1,0 +1,38 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "_1_委托简介", "_1_委托简介\_1_委托简介.csproj", "{BE04556D-88DD-45D9-A900-6D343F01E86F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "_2_多播委托", "_2_多播委托\_2_多播委托.csproj", "{66DF07AB-FEE9-42BD-B3FA-5936A889310D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "_3_匿名方法", "_2_匿名方法\_3_匿名方法.csproj", "{098853F3-C955-4568-B840-D58945AD6529}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "_4_事件的使用", "_4_事件的使用\_4_事件的使用.csproj", "{95DBE9C8-81B4-4967-9907-FE152CF9F758}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{BE04556D-88DD-45D9-A900-6D343F01E86F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BE04556D-88DD-45D9-A900-6D343F01E86F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BE04556D-88DD-45D9-A900-6D343F01E86F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BE04556D-88DD-45D9-A900-6D343F01E86F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{66DF07AB-FEE9-42BD-B3FA-5936A889310D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{66DF07AB-FEE9-42BD-B3FA-5936A889310D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{66DF07AB-FEE9-42BD-B3FA-5936A889310D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{66DF07AB-FEE9-42BD-B3FA-5936A889310D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{098853F3-C955-4568-B840-D58945AD6529}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{098853F3-C955-4568-B840-D58945AD6529}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{098853F3-C955-4568-B840-D58945AD6529}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{098853F3-C955-4568-B840-D58945AD6529}.Release|Any CPU.Build.0 = Release|Any CPU
+		{95DBE9C8-81B4-4967-9907-FE152CF9F758}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{95DBE9C8-81B4-4967-9907-FE152CF9F758}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{95DBE9C8-81B4-4967-9907-FE152CF9F758}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{95DBE9C8-81B4-4967-9907-FE152CF9F758}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

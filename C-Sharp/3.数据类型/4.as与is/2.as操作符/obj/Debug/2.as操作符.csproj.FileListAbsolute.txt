@@ -1,0 +1,4 @@
+E:\Subject\C-Sharp\3.数据类型\4.as与is\2.as操作符\bin\Debug\2.as操作符.exe
+E:\Subject\C-Sharp\3.数据类型\4.as与is\2.as操作符\bin\Debug\2.as操作符.pdb
+E:\Subject\C-Sharp\3.数据类型\4.as与is\2.as操作符\obj\Debug\2.as操作符.exe
+E:\Subject\C-Sharp\3.数据类型\4.as与is\2.as操作符\obj\Debug\2.as操作符.pdb

@@ -1,0 +1,4 @@
+E:\Subject\LinQ\LinQToXML\删除指定节点\bin\Debug\删除指定节点.exe
+E:\Subject\LinQ\LinQToXML\删除指定节点\bin\Debug\删除指定节点.pdb
+E:\Subject\LinQ\LinQToXML\删除指定节点\obj\Debug\删除指定节点.exe
+E:\Subject\LinQ\LinQToXML\删除指定节点\obj\Debug\删除指定节点.pdb

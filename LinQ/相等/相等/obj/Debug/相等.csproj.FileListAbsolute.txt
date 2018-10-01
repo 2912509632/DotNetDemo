@@ -1,0 +1,5 @@
+E:\Subject\LINQ\相等\相等\bin\Debug\相等.exe
+E:\Subject\LINQ\相等\相等\bin\Debug\相等.pdb
+E:\Subject\LINQ\相等\相等\obj\Debug\相等.csprojResolveAssemblyReference.cache
+E:\Subject\LINQ\相等\相等\obj\Debug\相等.exe
+E:\Subject\LINQ\相等\相等\obj\Debug\相等.pdb

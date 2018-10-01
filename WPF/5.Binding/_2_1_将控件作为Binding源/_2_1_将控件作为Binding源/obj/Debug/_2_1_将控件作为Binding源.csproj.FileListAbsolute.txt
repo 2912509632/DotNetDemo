@@ -1,0 +1,14 @@
+E:\Subject\WPF\5.Binding\_2_1_将控件作为Binding源\_2_1_将控件作为Binding源\bin\Debug\_2_1_将控件作为Binding源.exe.config
+E:\Subject\WPF\5.Binding\_2_1_将控件作为Binding源\_2_1_将控件作为Binding源\obj\Debug\_2_1_将控件作为Binding源.csprojResolveAssemblyReference.cache
+E:\Subject\WPF\5.Binding\_2_1_将控件作为Binding源\_2_1_将控件作为Binding源\obj\Debug\App.g.cs
+E:\Subject\WPF\5.Binding\_2_1_将控件作为Binding源\_2_1_将控件作为Binding源\obj\Debug\_2_1_将控件作为Binding源_MarkupCompile.cache
+E:\Subject\WPF\5.Binding\_2_1_将控件作为Binding源\_2_1_将控件作为Binding源\bin\Debug\_2_1_将控件作为Binding源.exe
+E:\Subject\WPF\5.Binding\_2_1_将控件作为Binding源\_2_1_将控件作为Binding源\bin\Debug\_2_1_将控件作为Binding源.pdb
+E:\Subject\WPF\5.Binding\_2_1_将控件作为Binding源\_2_1_将控件作为Binding源\obj\Debug\MainWindow.g.cs
+E:\Subject\WPF\5.Binding\_2_1_将控件作为Binding源\_2_1_将控件作为Binding源\obj\Debug\_2_1_将控件作为Binding源_MarkupCompile.lref
+E:\Subject\WPF\5.Binding\_2_1_将控件作为Binding源\_2_1_将控件作为Binding源\obj\Debug\MainWindow.baml
+E:\Subject\WPF\5.Binding\_2_1_将控件作为Binding源\_2_1_将控件作为Binding源\obj\Debug\_2_1_将控件作为Binding源.g.resources
+E:\Subject\WPF\5.Binding\_2_1_将控件作为Binding源\_2_1_将控件作为Binding源\obj\Debug\_2_1_将控件作为Binding源.Properties.Resources.resources
+E:\Subject\WPF\5.Binding\_2_1_将控件作为Binding源\_2_1_将控件作为Binding源\obj\Debug\_2_1_将控件作为Binding源.csproj.GenerateResource.Cache
+E:\Subject\WPF\5.Binding\_2_1_将控件作为Binding源\_2_1_将控件作为Binding源\obj\Debug\_2_1_将控件作为Binding源.exe
+E:\Subject\WPF\5.Binding\_2_1_将控件作为Binding源\_2_1_将控件作为Binding源\obj\Debug\_2_1_将控件作为Binding源.pdb

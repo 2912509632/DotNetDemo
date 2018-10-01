@@ -1,0 +1,5 @@
+E:\Subject\C-Sharp\11.文件处理\_5_压缩文件\_1_使用压缩流\bin\Debug\_1_使用压缩流.exe
+E:\Subject\C-Sharp\11.文件处理\_5_压缩文件\_1_使用压缩流\bin\Debug\_1_使用压缩流.pdb
+E:\Subject\C-Sharp\11.文件处理\_5_压缩文件\_1_使用压缩流\obj\Debug\_1_使用压缩流.csprojResolveAssemblyReference.cache
+E:\Subject\C-Sharp\11.文件处理\_5_压缩文件\_1_使用压缩流\obj\Debug\_1_使用压缩流.exe
+E:\Subject\C-Sharp\11.文件处理\_5_压缩文件\_1_使用压缩流\obj\Debug\_1_使用压缩流.pdb

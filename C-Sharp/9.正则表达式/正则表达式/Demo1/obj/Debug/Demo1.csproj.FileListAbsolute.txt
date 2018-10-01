@@ -1,0 +1,5 @@
+E:\Subject\C-Sharp\9.正则表达式\正则表达式\Demo1\bin\Debug\Demo1.exe
+E:\Subject\C-Sharp\9.正则表达式\正则表达式\Demo1\bin\Debug\Demo1.pdb
+E:\Subject\C-Sharp\9.正则表达式\正则表达式\Demo1\obj\Debug\Demo1.csprojResolveAssemblyReference.cache
+E:\Subject\C-Sharp\9.正则表达式\正则表达式\Demo1\obj\Debug\Demo1.exe
+E:\Subject\C-Sharp\9.正则表达式\正则表达式\Demo1\obj\Debug\Demo1.pdb

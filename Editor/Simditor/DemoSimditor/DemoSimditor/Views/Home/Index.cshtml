@@ -1,0 +1,31 @@
+﻿@{
+    Layout = null;
+}
+
+<!DOCTYPE html>
+
+<html>
+<head>
+    <meta name="viewport" content="width=device-width" />
+    <title>Simditor使用演示</title>
+    <link href="https://cdn.bootcss.com/bootstrap/3.3.7/css/bootstrap.min.css" rel="stylesheet">
+</head>
+<body>
+    <div>
+        <textarea id="editor" autofocus></textarea>
+    </div>
+    <br />
+    <button class="btn btn-primary" id="getval">输出HTML内容</button>
+
+
+    <script type="text/javascript" src="/Scripts/jquery.min.js"></script>
+    <script type="text/javascript" src="/simditor/load.js"></script>
+
+    <script type="text/javascript">
+        $("#getval").click(function () {
+            var html = getEditorVal();
+            console.log(html);
+        });
+    </script>
+</body>
+</html>

@@ -1,0 +1,14 @@
+E:\Subject\WPF\11.绘图和动画\动画\场景\bin\Debug\场景.exe.config
+E:\Subject\WPF\11.绘图和动画\动画\场景\bin\Debug\场景.exe
+E:\Subject\WPF\11.绘图和动画\动画\场景\bin\Debug\场景.pdb
+E:\Subject\WPF\11.绘图和动画\动画\场景\obj\Debug\场景.csprojResolveAssemblyReference.cache
+E:\Subject\WPF\11.绘图和动画\动画\场景\obj\Debug\MainWindow.g.cs
+E:\Subject\WPF\11.绘图和动画\动画\场景\obj\Debug\App.g.cs
+E:\Subject\WPF\11.绘图和动画\动画\场景\obj\Debug\场景_MarkupCompile.cache
+E:\Subject\WPF\11.绘图和动画\动画\场景\obj\Debug\场景_MarkupCompile.lref
+E:\Subject\WPF\11.绘图和动画\动画\场景\obj\Debug\MainWindow.baml
+E:\Subject\WPF\11.绘图和动画\动画\场景\obj\Debug\场景.g.resources
+E:\Subject\WPF\11.绘图和动画\动画\场景\obj\Debug\场景.Properties.Resources.resources
+E:\Subject\WPF\11.绘图和动画\动画\场景\obj\Debug\场景.csproj.GenerateResource.Cache
+E:\Subject\WPF\11.绘图和动画\动画\场景\obj\Debug\场景.exe
+E:\Subject\WPF\11.绘图和动画\动画\场景\obj\Debug\场景.pdb

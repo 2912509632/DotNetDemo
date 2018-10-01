@@ -1,0 +1,5 @@
+E:\Subject\C-Sharp\6.面向对象\1.类和对象\5.ref与out\_2_out\bin\Debug\_2_out.exe
+E:\Subject\C-Sharp\6.面向对象\1.类和对象\5.ref与out\_2_out\bin\Debug\_2_out.pdb
+E:\Subject\C-Sharp\6.面向对象\1.类和对象\5.ref与out\_2_out\obj\Debug\_2_out.exe
+E:\Subject\C-Sharp\6.面向对象\1.类和对象\5.ref与out\_2_out\obj\Debug\_2_out.pdb
+E:\Subject\C-Sharp\6.面向对象\1.类和对象\5.ref与out\_2_out\obj\Debug\_2_out.csprojResolveAssemblyReference.cache

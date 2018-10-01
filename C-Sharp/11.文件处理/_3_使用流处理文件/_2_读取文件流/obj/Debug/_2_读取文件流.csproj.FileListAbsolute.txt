@@ -1,0 +1,5 @@
+E:\Subject\C-Sharp\11.文件处理\_3_使用流处理文件\_2_读取文件流\bin\Debug\_2_读取文件流.exe
+E:\Subject\C-Sharp\11.文件处理\_3_使用流处理文件\_2_读取文件流\bin\Debug\_2_读取文件流.pdb
+E:\Subject\C-Sharp\11.文件处理\_3_使用流处理文件\_2_读取文件流\obj\Debug\_2_读取文件流.csprojResolveAssemblyReference.cache
+E:\Subject\C-Sharp\11.文件处理\_3_使用流处理文件\_2_读取文件流\obj\Debug\_2_读取文件流.exe
+E:\Subject\C-Sharp\11.文件处理\_3_使用流处理文件\_2_读取文件流\obj\Debug\_2_读取文件流.pdb

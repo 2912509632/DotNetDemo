@@ -1,0 +1,67 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Schema Namespace="Demo.Store" Alias="Self" Provider="System.Data.SqlClient" ProviderManifestToken="2008" xmlns:store="http://schemas.microsoft.com/ado/2007/12/edm/EntityStoreSchemaGenerator" xmlns="http://schemas.microsoft.com/ado/2009/02/edm/ssdl">
+  <EntityContainer Name="DemoStoreContainer">
+    <EntitySet Name="InfoSet" EntityType="Demo.Store.InfoSet" store:Type="Tables" Schema="dbo" />
+    <EntitySet Name="GradeSet" EntityType="Demo.Store.GradeSet" store:Type="Tables" Schema="dbo" />
+    <EntitySet Name="MoreSet" EntityType="Demo.Store.MoreSet" store:Type="Tables" Schema="dbo" />
+    <AssociationSet Name="InfoGrade" Association="Demo.Store.InfoGrade">
+      <End Role="Info" EntitySet="InfoSet" />
+      <End Role="Grade" EntitySet="GradeSet" />
+    </AssociationSet>
+    <AssociationSet Name="InfoMore" Association="Demo.Store.InfoMore">
+      <End Role="Info" EntitySet="InfoSet" />
+      <End Role="More" EntitySet="MoreSet" />
+    </AssociationSet>
+  </EntityContainer>
+  <EntityType Name="InfoSet">
+    <Key>
+      <PropertyRef Name="ID" />
+    </Key>
+    <Property Name="ID" Type="int" StoreGeneratedPattern="Identity" Nullable="false" />
+    <Property Name="Name" Type="nvarchar" Nullable="false" MaxLength="50" />
+    <Property Name="Pass" Type="nvarchar" Nullable="false" MaxLength="50" />
+  </EntityType>
+  <EntityType Name="GradeSet">
+    <Key>
+      <PropertyRef Name="ID" />
+    </Key>
+    <Property Name="ID" Type="int" StoreGeneratedPattern="Identity" Nullable="false" />
+    <Property Name="Chinese" Type="float" Nullable="false" DefaultValue="0" />
+    <Property Name="English" Type="float" Nullable="false" DefaultValue="0" />
+    <Property Name="IT" Type="float" Nullable="false" DefaultValue="0" />
+    <Property Name="InfoID" Type="int" Nullable="false" />
+  </EntityType>
+  <EntityType Name="MoreSet">
+    <Key>
+      <PropertyRef Name="ID" />
+    </Key>
+    <Property Name="ID" Type="int" StoreGeneratedPattern="Identity" Nullable="false" />
+    <Property Name="Mail" Type="nvarchar" Nullable="false" MaxLength="200" />
+    <Property Name="Adress" Type="nvarchar" Nullable="false" MaxLength="500" />
+    <Property Name="InfoID" Type="int" Nullable="false" />
+  </EntityType>
+  <Association Name="InfoGrade">
+    <End Role="Info" Type="Demo.Store.InfoSet" Multiplicity="1" />
+    <End Role="Grade" Type="Demo.Store.GradeSet" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="Info">
+        <PropertyRef Name="ID" />
+      </Principal>
+      <Dependent Role="Grade">
+        <PropertyRef Name="InfoID" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="InfoMore">
+    <End Role="Info" Type="Demo.Store.InfoSet" Multiplicity="1" />
+    <End Role="More" Type="Demo.Store.MoreSet" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="Info">
+        <PropertyRef Name="ID" />
+      </Principal>
+      <Dependent Role="More">
+        <PropertyRef Name="InfoID" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+</Schema>

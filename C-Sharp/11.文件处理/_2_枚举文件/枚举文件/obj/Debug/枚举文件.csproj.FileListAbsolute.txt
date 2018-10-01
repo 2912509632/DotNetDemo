@@ -1,0 +1,5 @@
+E:\Subject\C-Sharp\11.文件处理\_2_枚举文件\枚举文件\bin\Debug\枚举文件.exe
+E:\Subject\C-Sharp\11.文件处理\_2_枚举文件\枚举文件\bin\Debug\枚举文件.pdb
+E:\Subject\C-Sharp\11.文件处理\_2_枚举文件\枚举文件\obj\Debug\枚举文件.csprojResolveAssemblyReference.cache
+E:\Subject\C-Sharp\11.文件处理\_2_枚举文件\枚举文件\obj\Debug\枚举文件.exe
+E:\Subject\C-Sharp\11.文件处理\_2_枚举文件\枚举文件\obj\Debug\枚举文件.pdb

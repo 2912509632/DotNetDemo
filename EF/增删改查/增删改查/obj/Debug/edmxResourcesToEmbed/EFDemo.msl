@@ -1,0 +1,44 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Mapping Space="C-S" xmlns="http://schemas.microsoft.com/ado/2008/09/mapping/cs">
+  <EntityContainerMapping StorageEntityContainer="EFDemoModelStoreContainer" CdmEntityContainer="EFDemoEntities">
+    <EntitySetMapping Name="Article">
+      <EntityTypeMapping TypeName="EFDemoModel.Article">
+        <MappingFragment StoreEntitySet="Article">
+          <ScalarProperty Name="AID" ColumnName="AID" />
+          <ScalarProperty Name="ATitle" ColumnName="ATitle" />
+          <ScalarProperty Name="AText" ColumnName="AText" />
+          <ScalarProperty Name="ATime" ColumnName="ATime" />
+          <ScalarProperty Name="CID" ColumnName="CID" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="Category">
+      <EntityTypeMapping TypeName="EFDemoModel.Category">
+        <MappingFragment StoreEntitySet="Category">
+          <ScalarProperty Name="CID" ColumnName="CID" />
+          <ScalarProperty Name="CName" ColumnName="CName" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="Media">
+      <EntityTypeMapping TypeName="EFDemoModel.Media">
+        <MappingFragment StoreEntitySet="Media">
+          <ScalarProperty Name="MID" ColumnName="MID" />
+          <ScalarProperty Name="MName" ColumnName="MName" />
+          <ScalarProperty Name="MUrl" ColumnName="MUrl" />
+          <ScalarProperty Name="MTime" ColumnName="MTime" />
+          <ScalarProperty Name="UNum" ColumnName="UNum" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="Users">
+      <EntityTypeMapping TypeName="EFDemoModel.Users">
+        <MappingFragment StoreEntitySet="Users">
+          <ScalarProperty Name="UNum" ColumnName="UNum" />
+          <ScalarProperty Name="UName" ColumnName="UName" />
+          <ScalarProperty Name="UPass" ColumnName="UPass" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+  </EntityContainerMapping>
+</Mapping>

@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "_1.实例构造函数", "_1.实例构造函数\_1.实例构造函数.csproj", "{B58E666F-5CA3-4B25-9074-AAC66ED73B22}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "_2.静态构造函数", "_2.静态构造函数\_2.静态构造函数.csproj", "{4525C4CD-C3EF-4034-A9B2-6955494CBFF3}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B58E666F-5CA3-4B25-9074-AAC66ED73B22}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B58E666F-5CA3-4B25-9074-AAC66ED73B22}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B58E666F-5CA3-4B25-9074-AAC66ED73B22}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B58E666F-5CA3-4B25-9074-AAC66ED73B22}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4525C4CD-C3EF-4034-A9B2-6955494CBFF3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4525C4CD-C3EF-4034-A9B2-6955494CBFF3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4525C4CD-C3EF-4034-A9B2-6955494CBFF3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4525C4CD-C3EF-4034-A9B2-6955494CBFF3}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "_1.接口的定义及实现", "_1.接口的定义及实现\_1.接口的定义及实现.csproj", "{A1051467-A3BF-4B08-91C6-7E3DDF3E141D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "_2.派生的接口", "_2.派生的接口\_2.派生的接口.csproj", "{55DEF022-A849-4C46-991E-0D2DAB08A4AA}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A1051467-A3BF-4B08-91C6-7E3DDF3E141D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A1051467-A3BF-4B08-91C6-7E3DDF3E141D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A1051467-A3BF-4B08-91C6-7E3DDF3E141D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A1051467-A3BF-4B08-91C6-7E3DDF3E141D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{55DEF022-A849-4C46-991E-0D2DAB08A4AA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{55DEF022-A849-4C46-991E-0D2DAB08A4AA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{55DEF022-A849-4C46-991E-0D2DAB08A4AA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{55DEF022-A849-4C46-991E-0D2DAB08A4AA}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

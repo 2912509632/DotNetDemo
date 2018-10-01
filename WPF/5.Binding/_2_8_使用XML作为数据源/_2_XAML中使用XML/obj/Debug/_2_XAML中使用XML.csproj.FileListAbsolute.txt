@@ -1,0 +1,14 @@
+E:\Subject\WPF\5.Binding\_2_8_使用XML作为数据源\_2_XAML中使用XML\bin\Debug\_2_XAML中使用XML.exe.config
+E:\Subject\WPF\5.Binding\_2_8_使用XML作为数据源\_2_XAML中使用XML\bin\Debug\_2_XAML中使用XML.exe
+E:\Subject\WPF\5.Binding\_2_8_使用XML作为数据源\_2_XAML中使用XML\bin\Debug\_2_XAML中使用XML.pdb
+E:\Subject\WPF\5.Binding\_2_8_使用XML作为数据源\_2_XAML中使用XML\obj\Debug\_2_XAML中使用XML.csprojResolveAssemblyReference.cache
+E:\Subject\WPF\5.Binding\_2_8_使用XML作为数据源\_2_XAML中使用XML\obj\Debug\MainWindow.g.cs
+E:\Subject\WPF\5.Binding\_2_8_使用XML作为数据源\_2_XAML中使用XML\obj\Debug\App.g.cs
+E:\Subject\WPF\5.Binding\_2_8_使用XML作为数据源\_2_XAML中使用XML\obj\Debug\_2_XAML中使用XML_MarkupCompile.cache
+E:\Subject\WPF\5.Binding\_2_8_使用XML作为数据源\_2_XAML中使用XML\obj\Debug\_2_XAML中使用XML_MarkupCompile.lref
+E:\Subject\WPF\5.Binding\_2_8_使用XML作为数据源\_2_XAML中使用XML\obj\Debug\MainWindow.baml
+E:\Subject\WPF\5.Binding\_2_8_使用XML作为数据源\_2_XAML中使用XML\obj\Debug\_2_XAML中使用XML.g.resources
+E:\Subject\WPF\5.Binding\_2_8_使用XML作为数据源\_2_XAML中使用XML\obj\Debug\_2_XAML中使用XML.Properties.Resources.resources
+E:\Subject\WPF\5.Binding\_2_8_使用XML作为数据源\_2_XAML中使用XML\obj\Debug\_2_XAML中使用XML.csproj.GenerateResource.Cache
+E:\Subject\WPF\5.Binding\_2_8_使用XML作为数据源\_2_XAML中使用XML\obj\Debug\_2_XAML中使用XML.exe
+E:\Subject\WPF\5.Binding\_2_8_使用XML作为数据源\_2_XAML中使用XML\obj\Debug\_2_XAML中使用XML.pdb

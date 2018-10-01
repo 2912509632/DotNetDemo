@@ -1,0 +1,20 @@
+﻿<Window x:Class="_2_4_没有Path的Binding.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:_2_4_没有Path的Binding"
+        xmlns:sys="clr-namespace:System;assembly=mscorlib"
+        mc:Ignorable="d"
+
+        Title="MainWindow" Height="50" Width="100">
+    <StackPanel>
+        <StackPanel.Resources>
+            <sys:String x:Key="txt">
+                明月几时有，把酒问青天。
+                不知天上宫阙，今夕是何年?
+            </sys:String>
+        </StackPanel.Resources>
+        <TextBlock Text="{Binding Source={StaticResource ResourceKey=txt}}"></TextBlock>
+    </StackPanel>
+</Window>

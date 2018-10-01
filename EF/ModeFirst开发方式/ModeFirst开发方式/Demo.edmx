@@ -1,0 +1,202 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<edmx:Edmx Version="2.0" xmlns:edmx="http://schemas.microsoft.com/ado/2008/10/edmx">
+  <!-- EF Runtime content -->
+  <edmx:Runtime>
+    <!-- SSDL content -->
+    <edmx:StorageModels>
+    <Schema Namespace="Demo.Store" Alias="Self" Provider="System.Data.SqlClient" ProviderManifestToken="2008" xmlns:store="http://schemas.microsoft.com/ado/2007/12/edm/EntityStoreSchemaGenerator" xmlns="http://schemas.microsoft.com/ado/2009/02/edm/ssdl">
+  <EntityContainer Name="DemoStoreContainer">
+    <EntitySet Name="InfoSet" EntityType="Demo.Store.InfoSet" store:Type="Tables" Schema="dbo" />
+    <EntitySet Name="GradeSet" EntityType="Demo.Store.GradeSet" store:Type="Tables" Schema="dbo" />
+    <EntitySet Name="MoreSet" EntityType="Demo.Store.MoreSet" store:Type="Tables" Schema="dbo" />
+    <AssociationSet Name="InfoGrade" Association="Demo.Store.InfoGrade">
+      <End Role="Info" EntitySet="InfoSet" />
+      <End Role="Grade" EntitySet="GradeSet" />
+    </AssociationSet>
+    <AssociationSet Name="InfoMore" Association="Demo.Store.InfoMore">
+      <End Role="Info" EntitySet="InfoSet" />
+      <End Role="More" EntitySet="MoreSet" />
+    </AssociationSet>
+  </EntityContainer>
+  <EntityType Name="InfoSet">
+    <Key>
+      <PropertyRef Name="ID" />
+    </Key>
+    <Property Name="ID" Type="int" StoreGeneratedPattern="Identity" Nullable="false" />
+    <Property Name="Name" Type="nvarchar" Nullable="false" MaxLength="50" />
+    <Property Name="Pass" Type="nvarchar" Nullable="false" MaxLength="50" />
+  </EntityType>
+  <EntityType Name="GradeSet">
+    <Key>
+      <PropertyRef Name="ID" />
+    </Key>
+    <Property Name="ID" Type="int" StoreGeneratedPattern="Identity" Nullable="false" />
+    <Property Name="Chinese" Type="float" Nullable="false" DefaultValue="0" />
+    <Property Name="English" Type="float" Nullable="false" DefaultValue="0" />
+    <Property Name="IT" Type="float" Nullable="false" DefaultValue="0" />
+    <Property Name="InfoID" Type="int" Nullable="false" />
+  </EntityType>
+  <EntityType Name="MoreSet">
+    <Key>
+      <PropertyRef Name="ID" />
+    </Key>
+    <Property Name="ID" Type="int" StoreGeneratedPattern="Identity" Nullable="false" />
+    <Property Name="Mail" Type="nvarchar" Nullable="false" MaxLength="200" />
+    <Property Name="Adress" Type="nvarchar" Nullable="false" MaxLength="500" />
+    <Property Name="InfoID" Type="int" Nullable="false" />
+  </EntityType>
+  <Association Name="InfoGrade">
+    <End Role="Info" Type="Demo.Store.InfoSet" Multiplicity="1" />
+    <End Role="Grade" Type="Demo.Store.GradeSet" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="Info">
+        <PropertyRef Name="ID" />
+      </Principal>
+      <Dependent Role="Grade">
+        <PropertyRef Name="InfoID" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="InfoMore">
+    <End Role="Info" Type="Demo.Store.InfoSet" Multiplicity="1" />
+    <End Role="More" Type="Demo.Store.MoreSet" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="Info">
+        <PropertyRef Name="ID" />
+      </Principal>
+      <Dependent Role="More">
+        <PropertyRef Name="InfoID" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+</Schema></edmx:StorageModels>
+    <!-- CSDL content -->
+    <edmx:ConceptualModels>
+      <Schema xmlns="http://schemas.microsoft.com/ado/2008/09/edm" xmlns:cg="http://schemas.microsoft.com/ado/2006/04/codegeneration" xmlns:store="http://schemas.microsoft.com/ado/2007/12/edm/EntityStoreSchemaGenerator" Namespace="Demo" Alias="Self" xmlns:annotation="http://schemas.microsoft.com/ado/2009/02/edm/annotation" >
+        <EntityContainer Name="DemoContainer" annotation:LazyLoadingEnabled="true">
+          <EntitySet Name="InfoSet" EntityType="Demo.Info" />
+          <EntitySet Name="GradeSet" EntityType="Demo.Grade" />
+          <AssociationSet Name="InfoGrade" Association="Demo.InfoGrade">
+            <End Role="Info" EntitySet="InfoSet" />
+            <End Role="Grade" EntitySet="GradeSet" />
+          </AssociationSet>
+          <EntitySet Name="MoreSet" EntityType="Demo.More" />
+          <AssociationSet Name="InfoMore" Association="Demo.InfoMore">
+            <End Role="Info" EntitySet="InfoSet" />
+            <End Role="More" EntitySet="MoreSet" />
+          </AssociationSet>
+        </EntityContainer>
+        <EntityType Name="Info">
+          <Key>
+            <PropertyRef Name="ID" />
+          </Key>
+          <Property Name="ID" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+          <Property Name="Name" Type="String" Nullable="false" MaxLength="50" Unicode="true" />
+          <Property Name="Pass" Type="String" Nullable="false" MaxLength="50" Unicode="true" />
+          <NavigationProperty Name="Grade" Relationship="Demo.InfoGrade" FromRole="Info" ToRole="Grade" />
+          <NavigationProperty Name="More" Relationship="Demo.InfoMore" FromRole="Info" ToRole="More" />
+        </EntityType>
+        <EntityType Name="Grade">
+          <Key>
+            <PropertyRef Name="ID" />
+          </Key>
+          <Property Name="ID" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+          <Property Name="Chinese" Type="Double" Nullable="false" DefaultValue="0" />
+          <Property Name="English" Type="Double" Nullable="false" DefaultValue="0" />
+          <Property Name="IT" Type="Double" Nullable="false" DefaultValue="0" />
+          <NavigationProperty Name="Info" Relationship="Demo.InfoGrade" FromRole="Grade" ToRole="Info" />
+          <Property Name="InfoID" Type="Int32" Nullable="false" />
+        </EntityType>
+        <Association Name="InfoGrade">
+          <End Type="Demo.Info" Role="Info" Multiplicity="1" />
+          <End Type="Demo.Grade" Role="Grade" Multiplicity="*" />
+          <ReferentialConstraint>
+            <Principal Role="Info">
+              <PropertyRef Name="ID" />
+            </Principal>
+            <Dependent Role="Grade">
+              <PropertyRef Name="InfoID" />
+            </Dependent>
+          </ReferentialConstraint>
+        </Association>
+        <EntityType Name="More">
+          <Key>
+            <PropertyRef Name="ID" />
+          </Key>
+          <Property Name="ID" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+          <Property Name="Mail" Type="String" Nullable="false" MaxLength="200" Unicode="true" />
+          <Property Name="Adress" Type="String" Nullable="false" MaxLength="500" Unicode="true" />
+          <NavigationProperty Name="Info" Relationship="Demo.InfoMore" FromRole="More" ToRole="Info" />
+          <Property Name="InfoID" Type="Int32" Nullable="false" />
+        </EntityType>
+        <Association Name="InfoMore">
+          <End Type="Demo.Info" Role="Info" Multiplicity="1" />
+          <End Type="Demo.More" Role="More" Multiplicity="*" />
+          <ReferentialConstraint>
+            <Principal Role="Info">
+              <PropertyRef Name="ID" />
+            </Principal>
+            <Dependent Role="More">
+              <PropertyRef Name="InfoID" />
+            </Dependent>
+          </ReferentialConstraint>
+        </Association>
+      </Schema>
+    </edmx:ConceptualModels>
+    <!-- C-S mapping content -->
+    <edmx:Mappings>
+    <Mapping Space="C-S" xmlns="http://schemas.microsoft.com/ado/2008/09/mapping/cs">
+  <EntityContainerMapping StorageEntityContainer="DemoStoreContainer" CdmEntityContainer="DemoContainer">
+    <EntitySetMapping Name="InfoSet">
+      <EntityTypeMapping TypeName="IsTypeOf(Demo.Info)">
+        <MappingFragment StoreEntitySet="InfoSet">
+          <ScalarProperty Name="ID" ColumnName="ID" />
+          <ScalarProperty Name="Name" ColumnName="Name" />
+          <ScalarProperty Name="Pass" ColumnName="Pass" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="GradeSet">
+      <EntityTypeMapping TypeName="IsTypeOf(Demo.Grade)">
+        <MappingFragment StoreEntitySet="GradeSet">
+          <ScalarProperty Name="ID" ColumnName="ID" />
+          <ScalarProperty Name="Chinese" ColumnName="Chinese" />
+          <ScalarProperty Name="English" ColumnName="English" />
+          <ScalarProperty Name="IT" ColumnName="IT" />
+          <ScalarProperty Name="InfoID" ColumnName="InfoID" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="MoreSet">
+      <EntityTypeMapping TypeName="IsTypeOf(Demo.More)">
+        <MappingFragment StoreEntitySet="MoreSet">
+          <ScalarProperty Name="ID" ColumnName="ID" />
+          <ScalarProperty Name="Mail" ColumnName="Mail" />
+          <ScalarProperty Name="Adress" ColumnName="Adress" />
+          <ScalarProperty Name="InfoID" ColumnName="InfoID" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+  </EntityContainerMapping>
+</Mapping></edmx:Mappings>
+  </edmx:Runtime>
+  <!-- EF Designer content (DO NOT EDIT MANUALLY BELOW HERE) -->
+  <edmx:Designer xmlns="http://schemas.microsoft.com/ado/2008/10/edmx">
+    <edmx:Connection>
+      <DesignerInfoPropertySet>
+        <DesignerProperty Name="MetadataArtifactProcessing" Value="EmbedInOutputAssembly" />
+      </DesignerInfoPropertySet>
+    </edmx:Connection>
+    <edmx:Options>
+      <DesignerInfoPropertySet>
+        <DesignerProperty Name="ValidateOnBuild" Value="true" />
+        <DesignerProperty Name="EnablePluralization" Value="False" />
+        <DesignerProperty Name="CodeGenerationStrategy" Value="无" />
+        <DesignerProperty Name="UseLegacyProvider" Value="True" />
+      </DesignerInfoPropertySet>
+    </edmx:Options>
+    <!-- Diagram content (shape and connector positions) -->
+    <edmx:Diagrams>
+    </edmx:Diagrams>
+  </edmx:Designer>
+</edmx:Edmx>

@@ -1,0 +1,6 @@
+E:\Subject\Ado.Net\SQLServer连接数据库\SQLServer连接数据库\bin\Debug\SQLServer连接数据库.exe.config
+E:\Subject\Ado.Net\SQLServer连接数据库\SQLServer连接数据库\bin\Debug\SQLServer连接数据库.exe
+E:\Subject\Ado.Net\SQLServer连接数据库\SQLServer连接数据库\bin\Debug\SQLServer连接数据库.pdb
+E:\Subject\Ado.Net\SQLServer连接数据库\SQLServer连接数据库\obj\Debug\SQLServer连接数据库.csprojResolveAssemblyReference.cache
+E:\Subject\Ado.Net\SQLServer连接数据库\SQLServer连接数据库\obj\Debug\SQLServer连接数据库.exe
+E:\Subject\Ado.Net\SQLServer连接数据库\SQLServer连接数据库\obj\Debug\SQLServer连接数据库.pdb

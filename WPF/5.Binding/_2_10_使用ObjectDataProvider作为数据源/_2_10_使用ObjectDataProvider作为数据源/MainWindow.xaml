@@ -1,0 +1,17 @@
+﻿    <Window x:Class="_2_10_使用ObjectDataProvider作为数据源.MainWindow"
+            xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+            xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+            xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+            xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+            xmlns:local="clr-namespace:_2_10_使用ObjectDataProvider作为数据源"
+            mc:Ignorable="d"
+            Title="MainWindow" Height="200" Width="300">
+        <StackPanel Margin="10">
+            <Label Content="操作数A：" />
+            <TextBox Name="txt_a" />
+            <Label Content="操作数B：" />
+            <TextBox Name="txt_b" />
+            <Label Content="A与B的和：" />
+            <TextBox Name="txt_sum" />
+        </StackPanel>
+    </Window>

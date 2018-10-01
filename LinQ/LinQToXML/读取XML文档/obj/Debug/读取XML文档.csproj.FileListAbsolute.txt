@@ -1,0 +1,5 @@
+E:\Subject\LinQ\LinQToXML\读取XML文档\bin\Debug\读取XML文档.exe
+E:\Subject\LinQ\LinQToXML\读取XML文档\bin\Debug\读取XML文档.pdb
+E:\Subject\LinQ\LinQToXML\读取XML文档\obj\Debug\读取XML文档.csprojResolveAssemblyReference.cache
+E:\Subject\LinQ\LinQToXML\读取XML文档\obj\Debug\读取XML文档.exe
+E:\Subject\LinQ\LinQToXML\读取XML文档\obj\Debug\读取XML文档.pdb

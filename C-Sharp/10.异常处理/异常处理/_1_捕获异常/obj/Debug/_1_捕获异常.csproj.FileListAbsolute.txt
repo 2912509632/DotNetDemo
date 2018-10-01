@@ -1,0 +1,5 @@
+E:\Subject\C-Sharp\10.异常处理\异常处理\_1_捕获异常\bin\Debug\_1_捕获异常.exe
+E:\Subject\C-Sharp\10.异常处理\异常处理\_1_捕获异常\bin\Debug\_1_捕获异常.pdb
+E:\Subject\C-Sharp\10.异常处理\异常处理\_1_捕获异常\obj\Debug\_1_捕获异常.csprojResolveAssemblyReference.cache
+E:\Subject\C-Sharp\10.异常处理\异常处理\_1_捕获异常\obj\Debug\_1_捕获异常.exe
+E:\Subject\C-Sharp\10.异常处理\异常处理\_1_捕获异常\obj\Debug\_1_捕获异常.pdb

@@ -1,0 +1,4 @@
+E:\Subject\C-Sharp\6.面向对象\1.类和对象\类和对象\2.类\bin\Debug\2.类.exe
+E:\Subject\C-Sharp\6.面向对象\1.类和对象\类和对象\2.类\bin\Debug\2.类.pdb
+E:\Subject\C-Sharp\6.面向对象\1.类和对象\类和对象\2.类\obj\Debug\2.类.exe
+E:\Subject\C-Sharp\6.面向对象\1.类和对象\类和对象\2.类\obj\Debug\2.类.pdb

@@ -1,0 +1,5 @@
+E:\Subject\C-Sharp\14.多线程\多线程\_1_Thread类\bin\Debug\_1_Thread类.exe
+E:\Subject\C-Sharp\14.多线程\多线程\_1_Thread类\bin\Debug\_1_Thread类.pdb
+E:\Subject\C-Sharp\14.多线程\多线程\_1_Thread类\obj\Debug\_1_Thread类.csprojResolveAssemblyReference.cache
+E:\Subject\C-Sharp\14.多线程\多线程\_1_Thread类\obj\Debug\_1_Thread类.exe
+E:\Subject\C-Sharp\14.多线程\多线程\_1_Thread类\obj\Debug\_1_Thread类.pdb

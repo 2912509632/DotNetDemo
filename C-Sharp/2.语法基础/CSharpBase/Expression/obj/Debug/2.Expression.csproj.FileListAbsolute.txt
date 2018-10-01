@@ -1,0 +1,5 @@
+E:\Subject\C-Sharp\2.语法基础\CSharpBase\Expression\bin\Debug\Expression.exe
+E:\Subject\C-Sharp\2.语法基础\CSharpBase\Expression\bin\Debug\Expression.pdb
+E:\Subject\C-Sharp\2.语法基础\CSharpBase\Expression\obj\Debug\2.Expression.csprojResolveAssemblyReference.cache
+E:\Subject\C-Sharp\2.语法基础\CSharpBase\Expression\obj\Debug\Expression.exe
+E:\Subject\C-Sharp\2.语法基础\CSharpBase\Expression\obj\Debug\Expression.pdb

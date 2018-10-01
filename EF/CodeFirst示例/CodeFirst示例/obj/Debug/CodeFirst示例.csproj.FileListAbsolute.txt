@@ -1,0 +1,11 @@
+E:\Subject\EF\CodeFirst示例\CodeFirst示例\bin\Debug\CodeFirst示例.exe.config
+E:\Subject\EF\CodeFirst示例\CodeFirst示例\bin\Debug\CodeFirst示例.exe
+E:\Subject\EF\CodeFirst示例\CodeFirst示例\bin\Debug\CodeFirst示例.pdb
+E:\Subject\EF\CodeFirst示例\CodeFirst示例\bin\Debug\EntityFramework.dll
+E:\Subject\EF\CodeFirst示例\CodeFirst示例\bin\Debug\EntityFramework.SqlServer.dll
+E:\Subject\EF\CodeFirst示例\CodeFirst示例\bin\Debug\EntityFramework.xml
+E:\Subject\EF\CodeFirst示例\CodeFirst示例\bin\Debug\EntityFramework.SqlServer.xml
+E:\Subject\EF\CodeFirst示例\CodeFirst示例\bin\Debug\zh-Hans\EntityFramework.resources.dll
+E:\Subject\EF\CodeFirst示例\CodeFirst示例\obj\Debug\CodeFirst示例.csprojResolveAssemblyReference.cache
+E:\Subject\EF\CodeFirst示例\CodeFirst示例\obj\Debug\CodeFirst示例.exe
+E:\Subject\EF\CodeFirst示例\CodeFirst示例\obj\Debug\CodeFirst示例.pdb

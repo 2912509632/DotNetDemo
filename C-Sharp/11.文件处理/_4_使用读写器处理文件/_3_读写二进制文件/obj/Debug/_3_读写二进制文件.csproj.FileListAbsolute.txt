@@ -1,0 +1,5 @@
+E:\Subject\C-Sharp\11.文件处理\_4_使用读写器处理文件\_3_读写二进制文件\bin\Debug\_3_读写二进制文件.exe
+E:\Subject\C-Sharp\11.文件处理\_4_使用读写器处理文件\_3_读写二进制文件\bin\Debug\_3_读写二进制文件.pdb
+E:\Subject\C-Sharp\11.文件处理\_4_使用读写器处理文件\_3_读写二进制文件\obj\Debug\_3_读写二进制文件.csprojResolveAssemblyReference.cache
+E:\Subject\C-Sharp\11.文件处理\_4_使用读写器处理文件\_3_读写二进制文件\obj\Debug\_3_读写二进制文件.exe
+E:\Subject\C-Sharp\11.文件处理\_4_使用读写器处理文件\_3_读写二进制文件\obj\Debug\_3_读写二进制文件.pdb

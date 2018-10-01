@@ -1,0 +1,6 @@
+E:\Subject\LINQ\LINQToSQL\LINQToSQL\bin\Debug\LINQToSQL.exe.config
+E:\Subject\LINQ\LINQToSQL\LINQToSQL\bin\Debug\LINQToSQL.exe
+E:\Subject\LINQ\LINQToSQL\LINQToSQL\bin\Debug\LINQToSQL.pdb
+E:\Subject\LINQ\LINQToSQL\LINQToSQL\obj\Debug\LINQToSQL.csprojResolveAssemblyReference.cache
+E:\Subject\LINQ\LINQToSQL\LINQToSQL\obj\Debug\LINQToSQL.exe
+E:\Subject\LINQ\LINQToSQL\LINQToSQL\obj\Debug\LINQToSQL.pdb

@@ -1,0 +1,5 @@
+E:\Subject\C-Sharp\11.文件处理\_1_管理文件系统\_2_Path使用\bin\Debug\_2_Path使用.exe
+E:\Subject\C-Sharp\11.文件处理\_1_管理文件系统\_2_Path使用\bin\Debug\_2_Path使用.pdb
+E:\Subject\C-Sharp\11.文件处理\_1_管理文件系统\_2_Path使用\obj\Debug\_2_Path使用.csprojResolveAssemblyReference.cache
+E:\Subject\C-Sharp\11.文件处理\_1_管理文件系统\_2_Path使用\obj\Debug\_2_Path使用.exe
+E:\Subject\C-Sharp\11.文件处理\_1_管理文件系统\_2_Path使用\obj\Debug\_2_Path使用.pdb

@@ -1,0 +1,6 @@
+E:\Subject\C-Sharp\11.文件处理\_1_管理文件系统\_1_检查驱动器信息\bin\Debug\_1_检查驱动器信息.exe
+E:\Subject\C-Sharp\11.文件处理\_1_管理文件系统\_1_检查驱动器信息\bin\Debug\_1_检查驱动器信息.pdb
+E:\Subject\C-Sharp\11.文件处理\_1_管理文件系统\_1_检查驱动器信息\obj\Debug\_1_检查驱动器信息.csprojResolveAssemblyReference.cache
+E:\Subject\C-Sharp\11.文件处理\_1_管理文件系统\_1_检查驱动器信息\obj\Debug\_1_检查驱动器信息.exe
+E:\Subject\C-Sharp\11.文件处理\_1_管理文件系统\_1_检查驱动器信息\obj\Debug\_1_检查驱动器信息.pdb
+E:\Subject\C-Sharp\11.文件处理\_1_管理文件系统\_1_检查驱动器信息\bin\Debug\_1_检查驱动器信息.exe.config

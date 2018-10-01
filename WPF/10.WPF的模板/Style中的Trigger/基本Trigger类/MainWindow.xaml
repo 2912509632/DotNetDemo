@@ -1,0 +1,26 @@
+﻿<Window x:Class="基本Trigger类.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:基本Trigger类"
+        mc:Ignorable="d"
+        Title="MainWindow" Height="148" Width="235">
+
+    <Window.Resources>
+        <Style TargetType="CheckBox">
+            <Style.Triggers>
+                <Trigger Property="IsChecked" Value="True">
+                    <Setter Property="FontSize" Value="24" />
+                    <Setter Property="FontWeight" Value="Bold" />
+                </Trigger>
+            </Style.Triggers>
+        </Style>
+    </Window.Resources>
+    <StackPanel Margin="5">
+        <CheckBox>我是CheckBox1</CheckBox>
+        <CheckBox>我是CheckBox2</CheckBox>
+        <CheckBox>我是CheckBox3</CheckBox>
+        <CheckBox>我是CheckBox4</CheckBox>
+    </StackPanel>
+</Window>

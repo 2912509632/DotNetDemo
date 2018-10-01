@@ -1,0 +1,5 @@
+E:\Subject\C-Sharp\14.多线程\多线程\_5_lock使用\bin\Debug\_5_lock使用.exe
+E:\Subject\C-Sharp\14.多线程\多线程\_5_lock使用\bin\Debug\_5_lock使用.pdb
+E:\Subject\C-Sharp\14.多线程\多线程\_5_lock使用\obj\Debug\_5_lock使用.csprojResolveAssemblyReference.cache
+E:\Subject\C-Sharp\14.多线程\多线程\_5_lock使用\obj\Debug\_5_lock使用.exe
+E:\Subject\C-Sharp\14.多线程\多线程\_5_lock使用\obj\Debug\_5_lock使用.pdb

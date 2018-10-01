@@ -1,0 +1,5 @@
+E:\Subject\LinQ\LinQToDataSet\LinQToDataSet\bin\Debug\LinQToDataSet.exe
+E:\Subject\LinQ\LinQToDataSet\LinQToDataSet\bin\Debug\LinQToDataSet.pdb
+E:\Subject\LinQ\LinQToDataSet\LinQToDataSet\obj\Debug\LinQToDataSet.csprojResolveAssemblyReference.cache
+E:\Subject\LinQ\LinQToDataSet\LinQToDataSet\obj\Debug\LinQToDataSet.exe
+E:\Subject\LinQ\LinQToDataSet\LinQToDataSet\obj\Debug\LinQToDataSet.pdb

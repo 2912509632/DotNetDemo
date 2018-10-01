@@ -1,0 +1,6 @@
+E:\Subject\Ado.Net\SqlCommand类\SqlCommand类\bin\Debug\SqlCommand类.exe.config
+E:\Subject\Ado.Net\SqlCommand类\SqlCommand类\obj\Debug\SqlCommand类.csprojResolveAssemblyReference.cache
+E:\Subject\Ado.Net\SqlCommand类\SqlCommand类\bin\Debug\SqlCommand类.exe
+E:\Subject\Ado.Net\SqlCommand类\SqlCommand类\bin\Debug\SqlCommand类.pdb
+E:\Subject\Ado.Net\SqlCommand类\SqlCommand类\obj\Debug\SqlCommand类.exe
+E:\Subject\Ado.Net\SqlCommand类\SqlCommand类\obj\Debug\SqlCommand类.pdb

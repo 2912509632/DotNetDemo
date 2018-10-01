@@ -1,0 +1,32 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "_1_StreamReader类", "_1_StreamReader类\_1_StreamReader类.csproj", "{C4689F3A-C777-403B-B721-82F6EE568F58}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "_2_StreamWriter类", "_2_StreamWriter类\_2_StreamWriter类.csproj", "{C58382F2-E8D3-46DA-8EE8-FF750B1AE55C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "_3_读写二进制文件", "_3_读写二进制文件\_3_读写二进制文件.csproj", "{E53FDCE1-7AC6-461E-A233-F1A828C7C306}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{C4689F3A-C777-403B-B721-82F6EE568F58}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C4689F3A-C777-403B-B721-82F6EE568F58}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C4689F3A-C777-403B-B721-82F6EE568F58}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C4689F3A-C777-403B-B721-82F6EE568F58}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C58382F2-E8D3-46DA-8EE8-FF750B1AE55C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C58382F2-E8D3-46DA-8EE8-FF750B1AE55C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C58382F2-E8D3-46DA-8EE8-FF750B1AE55C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C58382F2-E8D3-46DA-8EE8-FF750B1AE55C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E53FDCE1-7AC6-461E-A233-F1A828C7C306}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E53FDCE1-7AC6-461E-A233-F1A828C7C306}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E53FDCE1-7AC6-461E-A233-F1A828C7C306}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E53FDCE1-7AC6-461E-A233-F1A828C7C306}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

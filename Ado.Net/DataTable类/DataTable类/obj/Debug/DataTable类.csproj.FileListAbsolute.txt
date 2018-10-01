@@ -1,0 +1,5 @@
+E:\Subject\Ado.Net\DataTable类\DataTable类\bin\Debug\DataTable类.exe
+E:\Subject\Ado.Net\DataTable类\DataTable类\bin\Debug\DataTable类.pdb
+E:\Subject\Ado.Net\DataTable类\DataTable类\obj\Debug\DataTable类.csprojResolveAssemblyReference.cache
+E:\Subject\Ado.Net\DataTable类\DataTable类\obj\Debug\DataTable类.exe
+E:\Subject\Ado.Net\DataTable类\DataTable类\obj\Debug\DataTable类.pdb

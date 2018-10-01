@@ -1,0 +1,14 @@
+E:\Subject\WPF\11.绘图和动画\图形变形\布局变形\bin\Debug\布局变形.exe.config
+E:\Subject\WPF\11.绘图和动画\图形变形\布局变形\bin\Debug\布局变形.exe
+E:\Subject\WPF\11.绘图和动画\图形变形\布局变形\bin\Debug\布局变形.pdb
+E:\Subject\WPF\11.绘图和动画\图形变形\布局变形\obj\Debug\布局变形.csprojResolveAssemblyReference.cache
+E:\Subject\WPF\11.绘图和动画\图形变形\布局变形\obj\Debug\MainWindow.g.cs
+E:\Subject\WPF\11.绘图和动画\图形变形\布局变形\obj\Debug\App.g.cs
+E:\Subject\WPF\11.绘图和动画\图形变形\布局变形\obj\Debug\布局变形_MarkupCompile.cache
+E:\Subject\WPF\11.绘图和动画\图形变形\布局变形\obj\Debug\布局变形_MarkupCompile.lref
+E:\Subject\WPF\11.绘图和动画\图形变形\布局变形\obj\Debug\MainWindow.baml
+E:\Subject\WPF\11.绘图和动画\图形变形\布局变形\obj\Debug\布局变形.g.resources
+E:\Subject\WPF\11.绘图和动画\图形变形\布局变形\obj\Debug\布局变形.Properties.Resources.resources
+E:\Subject\WPF\11.绘图和动画\图形变形\布局变形\obj\Debug\布局变形.csproj.GenerateResource.Cache
+E:\Subject\WPF\11.绘图和动画\图形变形\布局变形\obj\Debug\布局变形.exe
+E:\Subject\WPF\11.绘图和动画\图形变形\布局变形\obj\Debug\布局变形.pdb

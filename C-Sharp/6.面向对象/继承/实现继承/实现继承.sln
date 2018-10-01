@@ -1,0 +1,50 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "_1.虚方法", "_1.虚方法\_1.虚方法.csproj", "{A30BDA21-7066-45DE-8302-0E22FD317F1F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "_2.隐藏方法", "_2.隐藏方法\_2.隐藏方法.csproj", "{112180AC-ED37-43AF-AA93-975DEFF639E3}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "_3.抽象类和抽象方法", "_3.抽象类和抽象方法\_3.抽象类和抽象方法.csproj", "{E655A7C3-5A88-422F-9BA9-B963796AC337}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "_4.密封类和密封方法", "_4.密封类和密封方法\_4.密封类和密封方法.csproj", "{776C1B27-C9B5-4A2D-BA24-2C789189BE3B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "_5.派生类的构造函数", "_5.派生类的构造函数\_5.派生类的构造函数.csproj", "{778FBA8C-A116-41B6-8C4D-DC28AA94A1A8}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "_5.1派生类的带参构造函数", "_5.1派生类的带参构造函数\_5.1派生类的带参构造函数.csproj", "{78D3695A-FB8B-4877-BDAA-5D6811AD0963}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A30BDA21-7066-45DE-8302-0E22FD317F1F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A30BDA21-7066-45DE-8302-0E22FD317F1F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A30BDA21-7066-45DE-8302-0E22FD317F1F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A30BDA21-7066-45DE-8302-0E22FD317F1F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{112180AC-ED37-43AF-AA93-975DEFF639E3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{112180AC-ED37-43AF-AA93-975DEFF639E3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{112180AC-ED37-43AF-AA93-975DEFF639E3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{112180AC-ED37-43AF-AA93-975DEFF639E3}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E655A7C3-5A88-422F-9BA9-B963796AC337}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E655A7C3-5A88-422F-9BA9-B963796AC337}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E655A7C3-5A88-422F-9BA9-B963796AC337}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E655A7C3-5A88-422F-9BA9-B963796AC337}.Release|Any CPU.Build.0 = Release|Any CPU
+		{776C1B27-C9B5-4A2D-BA24-2C789189BE3B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{776C1B27-C9B5-4A2D-BA24-2C789189BE3B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{776C1B27-C9B5-4A2D-BA24-2C789189BE3B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{776C1B27-C9B5-4A2D-BA24-2C789189BE3B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{778FBA8C-A116-41B6-8C4D-DC28AA94A1A8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{778FBA8C-A116-41B6-8C4D-DC28AA94A1A8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{778FBA8C-A116-41B6-8C4D-DC28AA94A1A8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{778FBA8C-A116-41B6-8C4D-DC28AA94A1A8}.Release|Any CPU.Build.0 = Release|Any CPU
+		{78D3695A-FB8B-4877-BDAA-5D6811AD0963}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{78D3695A-FB8B-4877-BDAA-5D6811AD0963}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{78D3695A-FB8B-4877-BDAA-5D6811AD0963}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{78D3695A-FB8B-4877-BDAA-5D6811AD0963}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

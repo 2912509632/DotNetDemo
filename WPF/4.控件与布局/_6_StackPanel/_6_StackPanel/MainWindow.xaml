@@ -1,0 +1,25 @@
+﻿<Window x:Class="_6_StackPanel.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:_6_StackPanel"
+        mc:Ignorable="d"
+        Title="MainWindow" Height="200" Width="200">
+
+    <GroupBox Margin="10">
+        <GroupBox.Header>
+            <Label Content="请选择您的学校："/>
+        </GroupBox.Header>
+        <StackPanel>
+            <CheckBox Content="谷城一中"/>
+            <CheckBox Content="谷城二中"/>
+            <CheckBox Content="谷城三中"/>
+            <CheckBox Content="谷城职高"/>
+            <StackPanel Orientation="Horizontal"  HorizontalAlignment="Right">
+                <Button Margin="5">确定</Button>
+                <Button Margin="5">取消</Button>
+            </StackPanel>
+        </StackPanel>
+    </GroupBox>
+</Window>

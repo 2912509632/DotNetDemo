@@ -1,0 +1,5 @@
+E:\Subject\LINQ\元素操作符\元素操作符\bin\Debug\元素操作符.exe
+E:\Subject\LINQ\元素操作符\元素操作符\bin\Debug\元素操作符.pdb
+E:\Subject\LINQ\元素操作符\元素操作符\obj\Debug\元素操作符.csprojResolveAssemblyReference.cache
+E:\Subject\LINQ\元素操作符\元素操作符\obj\Debug\元素操作符.exe
+E:\Subject\LINQ\元素操作符\元素操作符\obj\Debug\元素操作符.pdb

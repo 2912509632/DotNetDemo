@@ -1,0 +1,8 @@
+E:\Subject\C-Sharp\11.文件处理\_5_压缩文件\_2_压缩文件\bin\Debug\_2_压缩文件.exe.config
+E:\Subject\C-Sharp\11.文件处理\_5_压缩文件\_2_压缩文件\bin\Debug\_2_压缩文件.exe
+E:\Subject\C-Sharp\11.文件处理\_5_压缩文件\_2_压缩文件\bin\Debug\_2_压缩文件.pdb
+E:\Subject\C-Sharp\11.文件处理\_5_压缩文件\_2_压缩文件\bin\Debug\Microsoft.QualityTools.Testing.Fakes.dll
+E:\Subject\C-Sharp\11.文件处理\_5_压缩文件\_2_压缩文件\obj\Debug\_2_压缩文件.exe
+E:\Subject\C-Sharp\11.文件处理\_5_压缩文件\_2_压缩文件\obj\Debug\_2_压缩文件.pdb
+E:\Subject\C-Sharp\11.文件处理\_5_压缩文件\_2_压缩文件\bin\Debug\zh-Hans\Microsoft.QualityTools.Testing.Fakes.resources.dll
+E:\Subject\C-Sharp\11.文件处理\_5_压缩文件\_2_压缩文件\obj\Debug\_2_压缩文件.csprojResolveAssemblyReference.cache

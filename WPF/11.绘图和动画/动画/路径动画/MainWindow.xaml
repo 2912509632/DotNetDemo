@@ -1,0 +1,19 @@
+﻿<Window x:Class="路径动画.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:路径动画"
+        mc:Ignorable="d"
+        Title="MainWindow" Height="350" Width="525">
+    <Grid x:Name="gv_demo">
+        <Grid.Resources>
+            <PathGeometry x:Key="movingPath" Figures="M 0,150 C300,-100 300,400 600,120" />
+        </Grid.Resources>
+        <Button Content="移动" VerticalAlignment="Top" HorizontalAlignment="Left" Width="60" Height="60" Click="Button_Click">
+            <Button.RenderTransform>
+                <TranslateTransform x:Name="tt_demo" X="0" Y="0" />
+            </Button.RenderTransform>
+        </Button>
+    </Grid>
+</Window>

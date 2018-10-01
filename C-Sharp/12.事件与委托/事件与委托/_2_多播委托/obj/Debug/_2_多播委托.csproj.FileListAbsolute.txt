@@ -1,0 +1,5 @@
+E:\Subject\C-Sharp\12.事件与委托\事件与委托\_2_多播委托\bin\Debug\_2_多播委托.exe
+E:\Subject\C-Sharp\12.事件与委托\事件与委托\_2_多播委托\bin\Debug\_2_多播委托.pdb
+E:\Subject\C-Sharp\12.事件与委托\事件与委托\_2_多播委托\obj\Debug\_2_多播委托.csprojResolveAssemblyReference.cache
+E:\Subject\C-Sharp\12.事件与委托\事件与委托\_2_多播委托\obj\Debug\_2_多播委托.exe
+E:\Subject\C-Sharp\12.事件与委托\事件与委托\_2_多播委托\obj\Debug\_2_多播委托.pdb

@@ -1,0 +1,16 @@
+﻿<Window x:Class="关键帧动画.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:关键帧动画"
+        mc:Ignorable="d"
+        Title="MainWindow" Height="350" Width="525">
+    <Grid>
+        <Button x:Name="btn_move" Width="60" Height="60" Content="移动" VerticalAlignment="Top" HorizontalAlignment="Left" Click="btn_move_Click" >
+            <Button.RenderTransform>
+                <TranslateTransform x:Name="tt_demo"  X="0" Y="0" />
+            </Button.RenderTransform>
+        </Button>
+    </Grid>
+</Window>

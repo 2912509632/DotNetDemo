@@ -1,0 +1,28 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<Info>
+  <Student Num="1">
+    <Name>Jiuone</Name>
+    <Sex>男</Sex>
+    <Age>21</Age>
+  </Student>
+  <Student Num="2">
+    <Name>Test</Name>
+    <Sex>男</Sex>
+    <Age>21</Age>
+  </Student>
+  <Student Num="3">
+    <Name>Demo</Name>
+    <Sex>男</Sex>
+    <Age>21</Age>
+  </Student>
+  <Student Num="4">
+    <Name>SoftAnts</Name>
+    <Sex>男</Sex>
+    <Age>21</Age>
+  </Student>
+  <Student Num="5">
+    <Name>Tolur</Name>
+    <Sex>男</Sex>
+    <Age>21</Age>
+  </Student>
+</Info>

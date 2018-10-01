@@ -1,0 +1,5 @@
+E:\Subject\LINQ\分区操作符\分区操作符\bin\Debug\分区操作符.exe
+E:\Subject\LINQ\分区操作符\分区操作符\bin\Debug\分区操作符.pdb
+E:\Subject\LINQ\分区操作符\分区操作符\obj\Debug\分区操作符.csprojResolveAssemblyReference.cache
+E:\Subject\LINQ\分区操作符\分区操作符\obj\Debug\分区操作符.exe
+E:\Subject\LINQ\分区操作符\分区操作符\obj\Debug\分区操作符.pdb

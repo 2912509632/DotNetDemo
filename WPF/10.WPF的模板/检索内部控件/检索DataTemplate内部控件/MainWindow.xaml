@@ -1,0 +1,49 @@
+﻿<Window x:Class="检索DataTemplate内部控件.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:c="clr-namespace:System.Collections;assembly=mscorlib"
+        xmlns:local="clr-namespace:检索DataTemplate内部控件"
+        mc:Ignorable="d"
+        Title="检索DataTemplate内部控件" Height="300" Width="300"
+        Background="Orange"
+        >
+
+    <Window.Resources>
+        <!--数据区-->
+        <c:ArrayList x:Key="data">
+            <local:Student Name="Jiuone" Skill="DotNet" HaveJob="False" />
+            <local:Student Name="HackPlay" Skill="DotNet" HaveJob="False" />
+            <local:Student Name="Liangrui" Skill="Java" HaveJob="True" />
+            <local:Student Name="Lsx" Skill="Network" HaveJob="True" />
+            <local:Student Name="Xiao" Skill="Safe" HaveJob="True" />
+            <local:Student Name="Laowei" Skill="ZHBX" HaveJob="True" />
+            <local:Student Name="Hmister" Skill="C" HaveJob="False" />
+            <local:Student Name="MxyVip" Skill="DotNet" HaveJob="False" />
+        </c:ArrayList>
+        <!--模板区-->
+        <DataTemplate x:Key="dt_Name">
+            <TextBox x:Name="txt_name" Text="{Binding Name}" Width="90" GotFocus="txt_name_GotFocus" />
+        </DataTemplate>
+        <DataTemplate x:Key="dt_Skill">
+            <TextBox x:Name="txt_skill" Text="{Binding Skill}" Width="90" />
+        </DataTemplate>
+        <DataTemplate x:Key="dt_HaveJob">
+            <CheckBox x:Name="cb_job" IsChecked="{Binding HaveJob}" Width="40" />
+        </DataTemplate>
+    </Window.Resources>
+    
+    <!--主体布局-->
+    <Grid Margin="5">
+        <ListView x:Name="lv_demo" ItemsSource="{StaticResource data}">
+            <ListView.View>
+                <GridView>
+                    <GridViewColumn CellTemplate="{StaticResource dt_Name}" Header="姓名" />
+                    <GridViewColumn CellTemplate="{StaticResource dt_Skill}" Header="技能" />
+                    <GridViewColumn CellTemplate="{StaticResource dt_HaveJob}" Header="是否工作" />
+                </GridView>
+            </ListView.View>
+        </ListView>
+    </Grid>
+</Window>

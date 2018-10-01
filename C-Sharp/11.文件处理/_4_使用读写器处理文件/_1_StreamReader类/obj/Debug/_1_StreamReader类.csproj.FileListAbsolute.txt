@@ -1,0 +1,5 @@
+E:\Subject\C-Sharp\11.文件处理\_4_使用读写器处理文件\_1_StreamReader类\bin\Debug\_1_StreamReader类.exe
+E:\Subject\C-Sharp\11.文件处理\_4_使用读写器处理文件\_1_StreamReader类\bin\Debug\_1_StreamReader类.pdb
+E:\Subject\C-Sharp\11.文件处理\_4_使用读写器处理文件\_1_StreamReader类\obj\Debug\_1_StreamReader类.csprojResolveAssemblyReference.cache
+E:\Subject\C-Sharp\11.文件处理\_4_使用读写器处理文件\_1_StreamReader类\obj\Debug\_1_StreamReader类.exe
+E:\Subject\C-Sharp\11.文件处理\_4_使用读写器处理文件\_1_StreamReader类\obj\Debug\_1_StreamReader类.pdb

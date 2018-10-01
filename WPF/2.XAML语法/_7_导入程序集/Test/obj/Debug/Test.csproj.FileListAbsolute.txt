@@ -1,0 +1,6 @@
+E:\Subject\WPF\2.XAML语法\_7_导入程序集\Test\bin\Debug\Test.dll
+E:\Subject\WPF\2.XAML语法\_7_导入程序集\Test\bin\Debug\Test.pdb
+E:\Subject\WPF\2.XAML语法\_7_导入程序集\Test\obj\Debug\Test.csprojAssemblyReference.cache
+E:\Subject\WPF\2.XAML语法\_7_导入程序集\Test\obj\Debug\Test.csproj.CoreCompileInputs.cache
+E:\Subject\WPF\2.XAML语法\_7_导入程序集\Test\obj\Debug\Test.dll
+E:\Subject\WPF\2.XAML语法\_7_导入程序集\Test\obj\Debug\Test.pdb

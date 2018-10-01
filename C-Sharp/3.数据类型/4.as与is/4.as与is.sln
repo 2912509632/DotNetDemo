@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "1.is操作符", "4.as与is\1.is操作符.csproj", "{84682B11-50B2-4211-AA47-6DD705029451}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "2.as操作符", "2.as操作符\2.as操作符.csproj", "{91F20B46-7450-4CDB-801E-2854139DE42E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{84682B11-50B2-4211-AA47-6DD705029451}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{84682B11-50B2-4211-AA47-6DD705029451}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{84682B11-50B2-4211-AA47-6DD705029451}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{84682B11-50B2-4211-AA47-6DD705029451}.Release|Any CPU.Build.0 = Release|Any CPU
+		{91F20B46-7450-4CDB-801E-2854139DE42E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{91F20B46-7450-4CDB-801E-2854139DE42E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{91F20B46-7450-4CDB-801E-2854139DE42E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{91F20B46-7450-4CDB-801E-2854139DE42E}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

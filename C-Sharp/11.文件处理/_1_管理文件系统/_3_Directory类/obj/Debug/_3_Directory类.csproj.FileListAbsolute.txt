@@ -1,0 +1,5 @@
+E:\Subject\C-Sharp\11.文件处理\_1_管理文件系统\_3_Directory类\bin\Debug\_3_Directory类.exe
+E:\Subject\C-Sharp\11.文件处理\_1_管理文件系统\_3_Directory类\bin\Debug\_3_Directory类.pdb
+E:\Subject\C-Sharp\11.文件处理\_1_管理文件系统\_3_Directory类\obj\Debug\_3_Directory类.exe
+E:\Subject\C-Sharp\11.文件处理\_1_管理文件系统\_3_Directory类\obj\Debug\_3_Directory类.pdb
+E:\Subject\C-Sharp\11.文件处理\_1_管理文件系统\_3_Directory类\obj\Debug\_3_Directory类.csprojResolveAssemblyReference.cache

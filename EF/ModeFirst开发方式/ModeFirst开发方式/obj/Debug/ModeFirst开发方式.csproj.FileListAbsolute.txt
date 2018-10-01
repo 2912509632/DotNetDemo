@@ -1,0 +1,9 @@
+E:\Subject\EF\ModeFirst开发方式\ModeFirst开发方式\bin\Debug\ModeFirst开发方式.exe.config
+E:\Subject\EF\ModeFirst开发方式\ModeFirst开发方式\bin\Debug\ModeFirst开发方式.exe
+E:\Subject\EF\ModeFirst开发方式\ModeFirst开发方式\bin\Debug\ModeFirst开发方式.pdb
+E:\Subject\EF\ModeFirst开发方式\ModeFirst开发方式\bin\Debug\EntityFramework.dll
+E:\Subject\EF\ModeFirst开发方式\ModeFirst开发方式\bin\Debug\EntityFramework.xml
+E:\Subject\EF\ModeFirst开发方式\ModeFirst开发方式\bin\Debug\zh-Hans\EntityFramework.resources.dll
+E:\Subject\EF\ModeFirst开发方式\ModeFirst开发方式\obj\Debug\ModeFirst开发方式.csprojResolveAssemblyReference.cache
+E:\Subject\EF\ModeFirst开发方式\ModeFirst开发方式\obj\Debug\ModeFirst开发方式.exe
+E:\Subject\EF\ModeFirst开发方式\ModeFirst开发方式\obj\Debug\ModeFirst开发方式.pdb

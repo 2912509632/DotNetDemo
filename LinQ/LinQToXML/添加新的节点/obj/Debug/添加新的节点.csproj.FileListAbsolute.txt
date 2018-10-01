@@ -1,0 +1,4 @@
+E:\Subject\LinQ\LinQToXML\添加新的节点\bin\Debug\添加新的节点.exe
+E:\Subject\LinQ\LinQToXML\添加新的节点\bin\Debug\添加新的节点.pdb
+E:\Subject\LinQ\LinQToXML\添加新的节点\obj\Debug\添加新的节点.exe
+E:\Subject\LinQ\LinQToXML\添加新的节点\obj\Debug\添加新的节点.pdb

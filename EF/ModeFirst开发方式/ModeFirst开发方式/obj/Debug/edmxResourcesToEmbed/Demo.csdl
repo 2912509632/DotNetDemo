@@ -1,0 +1,71 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Schema xmlns="http://schemas.microsoft.com/ado/2008/09/edm" xmlns:cg="http://schemas.microsoft.com/ado/2006/04/codegeneration" xmlns:store="http://schemas.microsoft.com/ado/2007/12/edm/EntityStoreSchemaGenerator" Namespace="Demo" Alias="Self" xmlns:annotation="http://schemas.microsoft.com/ado/2009/02/edm/annotation">
+  <EntityContainer Name="DemoContainer" annotation:LazyLoadingEnabled="true">
+    <EntitySet Name="InfoSet" EntityType="Demo.Info" />
+    <EntitySet Name="GradeSet" EntityType="Demo.Grade" />
+    <AssociationSet Name="InfoGrade" Association="Demo.InfoGrade">
+      <End Role="Info" EntitySet="InfoSet" />
+      <End Role="Grade" EntitySet="GradeSet" />
+    </AssociationSet>
+    <EntitySet Name="MoreSet" EntityType="Demo.More" />
+    <AssociationSet Name="InfoMore" Association="Demo.InfoMore">
+      <End Role="Info" EntitySet="InfoSet" />
+      <End Role="More" EntitySet="MoreSet" />
+    </AssociationSet>
+  </EntityContainer>
+  <EntityType Name="Info">
+    <Key>
+      <PropertyRef Name="ID" />
+    </Key>
+    <Property Name="ID" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+    <Property Name="Name" Type="String" Nullable="false" MaxLength="50" Unicode="true" />
+    <Property Name="Pass" Type="String" Nullable="false" MaxLength="50" Unicode="true" />
+    <NavigationProperty Name="Grade" Relationship="Demo.InfoGrade" FromRole="Info" ToRole="Grade" />
+    <NavigationProperty Name="More" Relationship="Demo.InfoMore" FromRole="Info" ToRole="More" />
+  </EntityType>
+  <EntityType Name="Grade">
+    <Key>
+      <PropertyRef Name="ID" />
+    </Key>
+    <Property Name="ID" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+    <Property Name="Chinese" Type="Double" Nullable="false" DefaultValue="0" />
+    <Property Name="English" Type="Double" Nullable="false" DefaultValue="0" />
+    <Property Name="IT" Type="Double" Nullable="false" DefaultValue="0" />
+    <NavigationProperty Name="Info" Relationship="Demo.InfoGrade" FromRole="Grade" ToRole="Info" />
+    <Property Name="InfoID" Type="Int32" Nullable="false" />
+  </EntityType>
+  <Association Name="InfoGrade">
+    <End Type="Demo.Info" Role="Info" Multiplicity="1" />
+    <End Type="Demo.Grade" Role="Grade" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="Info">
+        <PropertyRef Name="ID" />
+      </Principal>
+      <Dependent Role="Grade">
+        <PropertyRef Name="InfoID" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <EntityType Name="More">
+    <Key>
+      <PropertyRef Name="ID" />
+    </Key>
+    <Property Name="ID" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+    <Property Name="Mail" Type="String" Nullable="false" MaxLength="200" Unicode="true" />
+    <Property Name="Adress" Type="String" Nullable="false" MaxLength="500" Unicode="true" />
+    <NavigationProperty Name="Info" Relationship="Demo.InfoMore" FromRole="More" ToRole="Info" />
+    <Property Name="InfoID" Type="Int32" Nullable="false" />
+  </EntityType>
+  <Association Name="InfoMore">
+    <End Type="Demo.Info" Role="Info" Multiplicity="1" />
+    <End Type="Demo.More" Role="More" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="Info">
+        <PropertyRef Name="ID" />
+      </Principal>
+      <Dependent Role="More">
+        <PropertyRef Name="InfoID" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+</Schema>

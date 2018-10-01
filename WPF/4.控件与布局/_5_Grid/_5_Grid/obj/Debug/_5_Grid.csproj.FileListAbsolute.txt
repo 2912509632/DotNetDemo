@@ -1,0 +1,15 @@
+E:\Subject\WPF\4.控件与布局\_5_Grid\_5_Grid\bin\Debug\_5_Grid.exe.config
+E:\Subject\WPF\4.控件与布局\_5_Grid\_5_Grid\bin\Debug\_5_Grid.exe
+E:\Subject\WPF\4.控件与布局\_5_Grid\_5_Grid\bin\Debug\_5_Grid.pdb
+E:\Subject\WPF\4.控件与布局\_5_Grid\_5_Grid\obj\Debug\_5_Grid.csprojAssemblyReference.cache
+E:\Subject\WPF\4.控件与布局\_5_Grid\_5_Grid\obj\Debug\MainWindow.g.cs
+E:\Subject\WPF\4.控件与布局\_5_Grid\_5_Grid\obj\Debug\App.g.cs
+E:\Subject\WPF\4.控件与布局\_5_Grid\_5_Grid\obj\Debug\_5_Grid_MarkupCompile.cache
+E:\Subject\WPF\4.控件与布局\_5_Grid\_5_Grid\obj\Debug\_5_Grid_MarkupCompile.lref
+E:\Subject\WPF\4.控件与布局\_5_Grid\_5_Grid\obj\Debug\MainWindow.baml
+E:\Subject\WPF\4.控件与布局\_5_Grid\_5_Grid\obj\Debug\_5_Grid.g.resources
+E:\Subject\WPF\4.控件与布局\_5_Grid\_5_Grid\obj\Debug\_5_Grid.Properties.Resources.resources
+E:\Subject\WPF\4.控件与布局\_5_Grid\_5_Grid\obj\Debug\_5_Grid.csproj.GenerateResource.cache
+E:\Subject\WPF\4.控件与布局\_5_Grid\_5_Grid\obj\Debug\_5_Grid.csproj.CoreCompileInputs.cache
+E:\Subject\WPF\4.控件与布局\_5_Grid\_5_Grid\obj\Debug\_5_Grid.exe
+E:\Subject\WPF\4.控件与布局\_5_Grid\_5_Grid\obj\Debug\_5_Grid.pdb

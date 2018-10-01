@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "1.一维数组的使用", "3.数组的使用\1.一维数组的使用.csproj", "{74C0917B-874F-460F-9B48-D2EBD47882BD}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "2.二维数组", "2.二维数组\2.二维数组.csproj", "{1735136B-A5BA-4E47-B9BB-CCB8C314793B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{74C0917B-874F-460F-9B48-D2EBD47882BD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{74C0917B-874F-460F-9B48-D2EBD47882BD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{74C0917B-874F-460F-9B48-D2EBD47882BD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{74C0917B-874F-460F-9B48-D2EBD47882BD}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1735136B-A5BA-4E47-B9BB-CCB8C314793B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1735136B-A5BA-4E47-B9BB-CCB8C314793B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1735136B-A5BA-4E47-B9BB-CCB8C314793B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1735136B-A5BA-4E47-B9BB-CCB8C314793B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

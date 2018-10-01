@@ -1,0 +1,13 @@
+E:\Subject\WPF\5.Binding\_3_Binding数据的校验\_3_Binding数据的校验\bin\Debug\_3_Binding数据的校验.exe.config
+E:\Subject\WPF\5.Binding\_3_Binding数据的校验\_3_Binding数据的校验\bin\Debug\_3_Binding数据的校验.exe
+E:\Subject\WPF\5.Binding\_3_Binding数据的校验\_3_Binding数据的校验\bin\Debug\_3_Binding数据的校验.pdb
+E:\Subject\WPF\5.Binding\_3_Binding数据的校验\_3_Binding数据的校验\obj\Debug\MainWindow.g.cs
+E:\Subject\WPF\5.Binding\_3_Binding数据的校验\_3_Binding数据的校验\obj\Debug\App.g.cs
+E:\Subject\WPF\5.Binding\_3_Binding数据的校验\_3_Binding数据的校验\obj\Debug\_3_Binding数据的校验_MarkupCompile.cache
+E:\Subject\WPF\5.Binding\_3_Binding数据的校验\_3_Binding数据的校验\obj\Debug\_3_Binding数据的校验_MarkupCompile.lref
+E:\Subject\WPF\5.Binding\_3_Binding数据的校验\_3_Binding数据的校验\obj\Debug\MainWindow.baml
+E:\Subject\WPF\5.Binding\_3_Binding数据的校验\_3_Binding数据的校验\obj\Debug\_3_Binding数据的校验.g.resources
+E:\Subject\WPF\5.Binding\_3_Binding数据的校验\_3_Binding数据的校验\obj\Debug\_3_Binding数据的校验.Properties.Resources.resources
+E:\Subject\WPF\5.Binding\_3_Binding数据的校验\_3_Binding数据的校验\obj\Debug\_3_Binding数据的校验.csproj.GenerateResource.Cache
+E:\Subject\WPF\5.Binding\_3_Binding数据的校验\_3_Binding数据的校验\obj\Debug\_3_Binding数据的校验.exe
+E:\Subject\WPF\5.Binding\_3_Binding数据的校验\_3_Binding数据的校验\obj\Debug\_3_Binding数据的校验.pdb

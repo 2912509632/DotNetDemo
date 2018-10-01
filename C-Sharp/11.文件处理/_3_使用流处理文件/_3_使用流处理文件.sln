@@ -1,0 +1,38 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "_1_使用文件流", "_1_使用文件流\_1_使用文件流.csproj", "{E3235F44-DC12-44DE-872B-9F3BE8890734}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "_2_读取文件流", "_2_读取文件流\_2_读取文件流.csproj", "{58C9CDC9-7183-4FF9-A53D-4A2AC67C09AA}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "_3_写入文件流", "_3_写入文件流\_3_写入文件流.csproj", "{44AF9E53-0DB4-4B11-968A-AFEE09B412F7}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "_4_复制文件流", "_4_复制文件流\_4_复制文件流.csproj", "{8A984578-637D-4022-8A86-3A375C2DB55B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{E3235F44-DC12-44DE-872B-9F3BE8890734}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E3235F44-DC12-44DE-872B-9F3BE8890734}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E3235F44-DC12-44DE-872B-9F3BE8890734}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E3235F44-DC12-44DE-872B-9F3BE8890734}.Release|Any CPU.Build.0 = Release|Any CPU
+		{58C9CDC9-7183-4FF9-A53D-4A2AC67C09AA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{58C9CDC9-7183-4FF9-A53D-4A2AC67C09AA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{58C9CDC9-7183-4FF9-A53D-4A2AC67C09AA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{58C9CDC9-7183-4FF9-A53D-4A2AC67C09AA}.Release|Any CPU.Build.0 = Release|Any CPU
+		{44AF9E53-0DB4-4B11-968A-AFEE09B412F7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{44AF9E53-0DB4-4B11-968A-AFEE09B412F7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{44AF9E53-0DB4-4B11-968A-AFEE09B412F7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{44AF9E53-0DB4-4B11-968A-AFEE09B412F7}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8A984578-637D-4022-8A86-3A375C2DB55B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8A984578-637D-4022-8A86-3A375C2DB55B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8A984578-637D-4022-8A86-3A375C2DB55B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8A984578-637D-4022-8A86-3A375C2DB55B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

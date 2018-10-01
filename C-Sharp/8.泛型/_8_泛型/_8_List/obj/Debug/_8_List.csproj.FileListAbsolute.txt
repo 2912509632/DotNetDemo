@@ -1,0 +1,5 @@
+E:\Subject\C-Sharp\8.泛型\_8_泛型\_8_List\bin\Debug\_8_List.exe
+E:\Subject\C-Sharp\8.泛型\_8_泛型\_8_List\bin\Debug\_8_List.pdb
+E:\Subject\C-Sharp\8.泛型\_8_泛型\_8_List\obj\Debug\_8_List.exe
+E:\Subject\C-Sharp\8.泛型\_8_泛型\_8_List\obj\Debug\_8_List.pdb
+E:\Subject\C-Sharp\8.泛型\_8_泛型\_8_List\obj\Debug\_8_List.csprojResolveAssemblyReference.cache
